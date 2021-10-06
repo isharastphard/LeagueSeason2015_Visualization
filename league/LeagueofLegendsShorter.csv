@@ -1,0 +1,1115 @@
+Year,Season,Type,blueTeamTag,bResult,rResult,redTeamTag,gamelength,blueTop,blueJungle,blueMiddle,blueADC,blueSupport,redTop,redJungle,redMiddle,redADC,redSupport
+2015,Spring,Season,TSM,1,0,C9,40,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,Balls,Meteos,Hai,Sneaky,LemonNation
+2015,Spring,Season,CST,0,1,DIG,38,Cris,Impaler,Jesiz,Mash,Sheep,Gamsu,Crumbzz,Shiphtur,CoreJJ,KiWiKiD
+2015,Spring,Season,WFX,1,0,GV,40,Flaresz,ShorterACE,Pobelter,Altec,Gleeb,Hauntzer,Saintvicious,Keane,Cop,BunnyFuFuu
+2015,Spring,Season,TIP,0,1,TL,41,Rhux,Rush,XiaoWeiXiao,Apollo,Adrian,Quas,IWDominate,Fenix,KEITH,Xpecial
+2015,Spring,Season,CLG,1,0,T8,35,Benny,Xmithie,Link,Doublelift,aphromoo,CaliTrlolz8,Porpoise8,Slooshi8,Maplestreet8,Dodo8
+2015,Spring,Season,DIG,0,1,TIP,24,Gamsu,Crumbzz,Shiphtur,CoreJJ,KiWiKiD,Rhux,Rush,XiaoWeiXiao,Apollo,Adrian
+2015,Spring,Season,CST,1,0,WFX,39,Cris,Impaler,Jesiz,Mash,Sheep,Flaresz,ShorterACE,Pobelter,Altec,Gleeb
+2015,Spring,Season,TL,1,0,CLG,43,Quas,IWDominate,FeniX,KEITH,Xpecial,Benny,Xmithie,Link,Doublelift,Aphromoo
+2015,Spring,Season,C9,0,1,GV,41,Balls,Meteos,Hai,Sneaky,LemonNation,Hauntzer,Saintvicious,Keane,Cop,Bunny FuFuu
+2015,Spring,Season,T8,1,0,TSM,32,CaliTrlolz8,Porpoise8,Slooshi8,Maplestreet8,Dodo8,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Spring,Season,GV,1,0,DIG,52,Hauntzer,Saintvicious,Keane,Cop,Bunny FuFuu,Gamsu,Crumbzz,Shiphtur,CoreJJ,KiWiKiD
+2015,Spring,Season,T8,1,0,CST,46,CaliTrlolz8,Porpoise8,Slooshi8,Maplestreet8,Dodo8,Cris,Impaler,Jesiz,Mash,Sheep
+2015,Spring,Season,C9,1,0,TL,38,Balls,Meteos,Hai,Sneaky,LemonNation,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Spring,Season,TIP,0,1,CLG,31,Impact,Rush,XiaoWeiXiao,Apollo,Adrian,ZionSpartan,Xmithie,Link,Doublelift,Aphromoo
+2015,Spring,Season,TSM,1,0,WFX,33,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,Avalon,Helios,Pobelter,Altec,Gleeb
+2015,Spring,Season,CLG,1,0,C9,38,ZionSpartan,Xmithie,Link,Doublelift,Aphromoo,Balls,Meteos,Hai,Sneaky,LemonNation
+2015,Spring,Season,DIG,0,1,WFX,40,Gamsu,Crumbzz,Shiphtur,CoreJJ,KiWiKiD,Avalon,Helios,Pobelter,Altec,Gleeb
+2015,Spring,Season,TSM,1,0,TL,39,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Spring,Season,TIP,1,0,T8,40,Impact,Rush,XiaoWeiXiao,Apollo,Adrian,CaliTrlolz8,Porpoise8,Slooshi8,Maplestreet8,Dodo8
+2015,Spring,Season,CST,0,1,GV,39,Cris,Impaler,Jesiz,Mash,Sheep,Hauntzer,Saintvicious,Keane,Cop,Bunny FuFuu
+2015,Spring,Season,GV,0,1,TIP,49,Hauntzer,Saintvicious,Keane,Cop,Bunny FuFuu,Impact,Rush,XiaoWeiXiao,Apollo,Adrian
+2015,Spring,Season,C9,1,0,T8,35,Balls,Meteos,Hai,Sneaky,LemonNation,CaliTrlolz8,Porpoise8,Slooshi8,Maplestreet8,Dodo8
+2015,Spring,Season,DIG,0,1,TSM,36,Gamsu,CloudNguyen,Shiphtur,CoreJJ,KiWiKiD,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Spring,Season,TL,1,0,CST,43,Quas,IWDominate,FeniX,Piglet,Xpecial,Cris,Impaler,Jesiz,Mash,Sheep
+2015,Spring,Season,WFX,0,1,CLG,32,Avalon,Helios,Pobelter,Altec,Gleeb,ZionSpartan,Xmithie,Link,Doublelift,Aphromoo
+2015,Spring,Season,C9,1,0,CST,31,Balls,Meteos,Hai,Sneaky,LemonNation,Cris,Impaler,Jesiz,Mash,Sheep
+2015,Spring,Season,CLG,1,0,GV,36,ZionSpartan,Xmithie,Link,Doublelift,Aphromoo,Hauntzer,Saintvicious,Keane,Cop,Bunny FuFuu
+2015,Spring,Season,TL,0,1,DIG,41,Quas,IWDominate,FeniX,Piglet,Xpecial,Gamsu,CloudNguyen,Shiphtur,CoreJJ,KiWiKiD
+2015,Spring,Season,T8,1,0,WFX,31,CaliTrlolz8,Porpoise8,Slooshi8,Maplestreet8,Dodo8,Avalon,Helios,Pobelter,Altec,Gleeb
+2015,Spring,Season,TSM,1,0,TIP,30,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,Impact,Rush,XiaoWeiXiao,Apollo,Adrian
+2015,Spring,Season,CST,0,1,CLG,45,Cris,Impaler,Jesiz,Mash,Sheep,ZionSpartan,Xmithie,Link,Doublelift,Aphromoo
+2015,Spring,Season,WFX,1,0,TIP,42,Avalon,Helios,Pobelter,Altec,Gleeb,Impact,Rush,XiaoWeiXiao,Apollo,Adrian
+2015,Spring,Season,DIG,0,1,C9,27,Gamsu,CloudNguyen,Shiphtur,CoreJJ,KiWiKiD,Balls,Meteos,Hai,Sneaky,LemonNation
+2015,Spring,Season,T8,0,1,TL,35,CaliTrlolz8,Porpoise8,Slooshi8,Maplestreet8,Dodo8,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Spring,Season,GV,0,1,TSM,43,Hauntzer,Saintvicious,Keane,Cop,Bunny FuFuu,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Spring,Season,WFX,1,0,C9,37,Avalon,Helios,Pobelter,Altec,Gleeb,Balls,Meteos,Hai,Sneaky,LemonNation
+2015,Spring,Season,TIP,1,0,CST,40,Impact,Rush,XiaoWeiXiao,Apollo,Adrian,Cris,Impaler,Jesiz,Mash,Sheep
+2015,Spring,Season,CLG,0,1,TSM,46,ZionSpartan,Xmithie,Link,Doublelift,Aphromoo,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Spring,Season,GV,1,0,TL,48,Hauntzer,Saintvicious,Keane,Cop,Bunny FuFuu,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Spring,Season,DIG,1,0,T8,39,Gamsu,CloudNguyen,Shiphtur,CoreJJ,KiWiKiD,CaliTrlolz8,Porpoise8,Slooshi8,Maplestreet8,Dodo8
+2015,Spring,Season,TL,0,1,WFX,40,Quas,IWDominate,FeniX,KEITH,Xpecial,Avalon,Helios,Pobelter,Altec,Imagine
+2015,Spring,Season,T8,0,1,GV,49,CaliTrlolz8,Porpoise8,Slooshi8,Maplestreet8,Dodo8,Hauntzer,Saintvicious,Keane,Cop,Bunny FuFuu
+2015,Spring,Season,C9,1,0,TIP,37,Balls,Meteos,Hai,Sneaky,LemonNation,Impact,Rush,XiaoWeiXiao,Apollo,Adrian
+2015,Spring,Season,DIG,0,1,CLG,35,Gamsu,CloudNguyen,Shiphtur,CoreJJ,KiWiKiD,ZionSpartan,Xmithie,Link,Doublelift,Aphromoo
+2015,Spring,Season,TSM,1,0,CST,24,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,Cris,Impaler,mancloud,Mash,Sheep
+2015,Spring,Season,C9,1,0,CLG,44,Balls,Meteos,Hai,Sneaky,LemonNation,ZionSpartan,Xmithie,Link,Doublelift,Aphromoo
+2015,Spring,Season,TL,1,0,TSM,54,Quas,IWDominate,FeniX,KEITH,Xpecial,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Spring,Season,WFX,0,1,DIG,47,Avalon,Helios,Pobelter,Altec,Imagine,Gamsu,CloudNguyen,Shiphtur,CoreJJ,KiWiKiD
+2015,Spring,Season,CST,0,1,T8,33,Cris,Impaler,mancloud,Mash,Sheep,CaliTrlolz8,Porpoise8,Slooshi8,Maplestreet8,Dodo8
+2015,Spring,Season,TIP,1,0,GV,30,Impact,Rush,XiaoWeiXiao,Apollo,Adrian,Hauntzer,Saintvicious,Keane,Cop,Bunny FuFuu
+2015,Spring,Season,CST,0,1,C9,34,Cris,Impaler,mancloud,Mash,Sheep,Balls,Meteos,Hai,Sneaky,LemonNation
+2015,Spring,Season,T8,1,0,TIP,49,CaliTrlolz8,Porpoise8,Slooshi8,Maplestreet8,Dodo8,Impact,Rush,XiaoWeiXiao,Apollo,Adrian
+2015,Spring,Season,TL,1,0,GV,29,Quas,IWDominate,FeniX,KEITH,Xpecial,Hauntzer,Saintvicious,Keane,Cop,Bunny FuFuu
+2015,Spring,Season,TSM,1,0,DIG,33,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,Gamsu,Azingy,Shiphtur,CoreJJ,KiWiKiD
+2015,Spring,Season,CLG,1,0,WFX,29,ZionSpartan,Xmithie,Link,Doublelift,Aphromoo,Avalon,Helios,Pobelter,Altec,Imagine
+2015,Spring,Season,GV,1,0,CST,33,Hauntzer,Saintvicious,Keane,Cop,Bunny FuFuu,Cris,Impaler,mancloud,Mash,Sheep
+2015,Spring,Season,C9,1,0,WFX,30,Balls,Meteos,Hai,Sneaky,LemonNation,Avalon,Helios,Pobelter,Altec,Imagine
+2015,Spring,Season,TIP,1,0,TSM,42,Impact,Rush,XiaoWeiXiao,Apollo,Adrian,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Spring,Season,CLG,0,1,TL,55,ZionSpartan,Xmithie,Link,Doublelift,Aphromoo,Quas,IWDominate,FeniX,KEITH,Xpecial
+2015,Spring,Season,T8,1,0,DIG,38,CaliTrlolz8,Porpoise8,Slooshi8,Maplestreet8,Dodo8,Gamsu,Azingy,Shiphtur,CoreJJ,KiWiKiD
+2015,Spring,Season,DIG,1,0,CST,51,Gamsu,Azingy,Shiphtur,CoreJJ,KiWiKiD,Cris,Impaler,mancloud,Mash,Sheep
+2015,Spring,Season,GV,0,1,CLG,36,Hauntzer,Saintvicious,Keane,Cop,Bunny FuFuu,ZionSpartan,Xmithie,Link,Doublelift,Aphromoo
+2015,Spring,Season,WFX,0,1,TSM,46,Avalon,Helios,Pobelter,Paragon,Altec,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Spring,Season,TIP,1,0,C9,40,Impact,Rush,XiaoWeiXiao,Apollo,Adrian,Balls,Meteos,Hai,Sneaky,LemonNation
+2015,Spring,Season,TL,0,1,T8,46,Quas,IWDominate,FeniX,Piglet,Xpecial,CaliTrlolz8,Porpoise8,Slooshi8,Maplestreet8,Dodo8
+2015,Spring,Season,C9,1,0,DIG,46,Balls,Meteos,Hai,Sneaky,LemonNation,Gamsu,Azingy,Shiphtur,CoreJJ,KiWiKiD
+2015,Spring,Season,TSM,1,0,T8,37,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,CaliTrlolz8,Porpoise8,Slooshi8,Maplestreet8,Dodo8
+2015,Spring,Season,TL,0,1,TIP,29,Quas,IWDominate,FeniX,Piglet,Xpecial,Impact,Rush,XiaoWeiXiao,Apollo,Adrian
+2015,Spring,Season,GV,1,0,WFX,45,Hauntzer,Saintvicious,Keane,Cop,Bunny FuFuu,Avalon,Helios,Pobelter,Paragon,Altec
+2015,Spring,Season,CLG,1,0,CST,31,ZionSpartan,Xmithie,Link,Doublelift,aphromoo,Cris,Impaler,mancloud,Mash,Sheep
+2015,Spring,Season,CST,0,1,TIP,31,Cris,WTHeaven,mancloud,Mash,KonKwon,Impact,Rush,XiaoWeiXiao,Apollo,Adrian
+2015,Spring,Season,TL,0,1,C9,33,Quas,IWDominate,FeniX,Piglet,Xpecial,Balls,Meteos,Hai,Sneaky,LemonNation
+2015,Spring,Season,TSM,0,1,GV,37,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,Hauntzer,Saintvicious,Keane,Cop,Bunny FuFuu
+2015,Spring,Season,CLG,1,0,DIG,38,ZionSpartan,Xmithie,Link,Doublelift,aphromoo,Gamsu,Azingy,Shiphtur,CoreJJ,KiWiKiD
+2015,Spring,Season,WFX,0,1,T8,45,Avalon,Helios,Pobelter,Altec,Gleeb,CaliTrlolz8,Porpoise8,Slooshi8,Maplestreet8,Dodo8
+2015,Spring,Season,DIG,0,1,GV,40,Gamsu,Azingy,Shiphtur,CoreJJ,KiWiKiD,Hauntzer,Saintvicious,Keane,Cop,Bunny FuFuu
+2015,Spring,Season,TSM,1,0,CLG,42,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,ZionSpartan,Xmithie,Link,Doublelift,aphromoo
+2015,Spring,Season,T8,1,0,C9,47,CaliTrlolz8,Porpoise8,Slooshi8,Maplestreet8,Dodo8,Balls,Meteos,Hai,Sneaky,LemonNation
+2015,Spring,Season,TIP,1,0,WFX,42,Impact,Rush,XiaoWeiXiao,Apollo,Adrian,Avalon,Helios,Pobelter,Altec,Gleeb
+2015,Spring,Season,CST,0,1,TL,37,Cris,WTHeaven,mancloud,Mash,KonKwon,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Spring,Season,GV,0,1,C9,45,Hauntzer,Saintvicious,Keane,Cop,Bunny FuFuu,Balls,Meteos,Hai,Sneaky,LemonNation
+2015,Spring,Season,T8,0,1,CLG,34,CaliTrlolz8,Porpoise8,Slooshi8,Maplestreet8,Dodo8,ZionSpartan,Xmithie,Link,Doublelift,aphromoo
+2015,Spring,Season,WFX,1,0,TL,36,Avalon,Helios,Pobelter,Altec,Gleeb,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Spring,Season,CST,0,1,TSM,36,Cris,WTHeaven,mancloud,Mash,KonKwon,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Spring,Season,TIP,0,1,DIG,42,Impact,Rush,XiaoWeiXiao,Apollo,Adrian,Gamsu,Azingy,Shiphtur,CoreJJ,KiWiKiD
+2015,Spring,Season,WFX,1,0,CST,35,Avalon,Helios,Pobelter,Altec,Gleeb,Cris,WTHeaven,mancloud,Mash,KonKwon
+2015,Spring,Season,C9,1,0,TSM,40,Balls,Meteos,Hai,Sneaky,LemonNation,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Spring,Season,DIG,0,1,TL,33,Gamsu,Azingy,Shiphtur,CoreJJ,KiWiKiD,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Spring,Season,GV,1,0,T8,34,Hauntzer,Saintvicious,Keane,Cop,Bunny FuFuu,CaliTrlolz8,Porpoise8,Slooshi8,Maplestreet8,Dodo8
+2015,Spring,Season,CLG,0,1,TIP,34,ZionSpartan,Xmithie,Link,Doublelift,aphromoo,Impact,Rush,XiaoWeiXiao,Apollo,Adrian
+2015,Spring,Season,T8,0,1,TL,46,CaliTrlolz8,Porpoise8,Slooshi8,Maplestreet8,Dodo8,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Spring,Season,C9,1,0,CLG,28,Balls,Meteos,Hai,Sneaky,LemonNation,ZionSpartan,Xmithie,Link,Doublelift,aphromoo
+2015,Summer,Season,C9,1,0,TSM,46,Balls,Meteos,Incarnati0n,Sneaky,LemonNation,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Summer,Season,TDK,0,1,TL,44,Seraph,Kez,Bischu,Lattman,Baby,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Summer,Season,CLG,1,0,DIG,33,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo,Gamsu,Azingy,Shiphtur,CoreJJ,KiWiKiD
+2015,Summer,Season,T8,0,1,TIP,34,CaliTrlolz8,Porpoise8,Slooshi8,Maplestreet8,Dodo8,Impact,Rush,XiaoWeiXiao,Apollo,Adrian
+2015,Summer,Season,GV,0,1,NME,43,Hauntzer,Move,Keane,Altec,Bunny FuFuu,Flaresz,Trashy,Innox,otter,Bodydrop
+2015,Summer,Season,TL,1,0,T8,42,Quas,IWDominate,FeniX,Piglet,Xpecial,CaliTrlolz8,Porpoise8,Slooshi8,Maplestreet8,Dodo8
+2015,Summer,Season,DIG,1,0,C9,35,Gamsu,Azingy,Shiphtur,CoreJJ,KiWiKiD,Balls,Meteos,Incarnati0n,Sneaky,LemonNation
+2015,Summer,Season,TIP,0,1,CLG,40,Impact,Rush,XiaoWeiXiao,Apollo,Adrian,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo
+2015,Summer,Season,TSM,1,0,NME,35,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,Flaresz,Trashy,Innox,otter,Bodydrop
+2015,Summer,Season,TDK,0,1,GV,43,Seraph,Kez,Bischu,Lattman,Baby,Hauntzer,Move,Keane,Altec,Bunny FuFuu
+2015,Summer,Season,NME,0,1,TL,33,Flaresz,Trashy,Innox,otter,Bodydrop,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Summer,Season,C9,0,1,GV,36,Balls,Meteos,Incarnati0n,Sneaky,LemonNation,Hauntzer,Move,Keane,Altec,Bunny FuFuu
+2015,Summer,Season,TSM,1,0,TIP,43,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,Impact,Rush,XiaoWeiXiao,Apollo,Adrian
+2015,Summer,Season,T8,0,1,CLG,38,CaliTrlolz8,Porpoise8,Slooshi8,Nien,Dodo8,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo
+2015,Summer,Season,DIG,1,0,TDK,50,Gamsu,Azingy,Shiphtur,CoreJJ,KiWiKiD,Seraph,Kez,Bischu,Lattman,Baby
+2015,Summer,Season,C9,0,1,TIP,37,Balls,Meteos,Incarnati0n,Sneaky,LemonNation,Impact,Rush,XiaoWeiXiao,Apollo,Adrian
+2015,Summer,Season,TL,0,1,GV,33,Quas,IWDominate,FeniX,Piglet,Xpecial,Hauntzer,Move,Keane,Altec,Bunny FuFuu
+2015,Summer,Season,CLG,0,1,TSM,40,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Summer,Season,TDK,0,1,NME,48,Seraph,Kez,Bischu,Lattman,Smoothie,Flaresz,Trashy,Innox,otter,Bodydrop
+2015,Summer,Season,T8,0,1,DIG,44,CaliTrlolz8,Porpoise8,Slooshi8,Nien,Dodo8,Gamsu,Azingy,Shiphtur,CoreJJ,KiWiKiD
+2015,Summer,Season,NME,0,1,T8,39,Flaresz,Trashy,Innox,otter,Bodydrop,CaliTrlolz8,Porpoise8,Slooshi8,Nien,Dodo8
+2015,Summer,Season,TSM,0,1,DIG,44,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,Gamsu,Helios,Shiphtur,CoreJJ,KiWiKiD
+2015,Summer,Season,TL,1,0,C9,40,Quas,IWDominate,FeniX,Piglet,Xpecial,Balls,Meteos,Incarnati0n,Sneaky,LemonNation
+2015,Summer,Season,TIP,1,0,TDK,30,Impact,Rush,XiaoWeiXiao,Apollo,Adrian,Seraph,Kez,Bischu,Lattman,Smoothie
+2015,Summer,Season,GV,0,1,CLG,31,Hauntzer,Move,Keane,Altec,Bunny FuFuu,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo
+2015,Summer,Season,C9,1,0,T8,31,Balls,Meteos,Incarnati0n,Sneaky,LemonNation,CaliTrlolz8,Porpoise8,Slooshi8,Nien,Dodo8
+2015,Summer,Season,TSM,1,0,TDK,48,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,Seraph,Kez,Bischu,Lattman,Smoothie
+2015,Summer,Season,TIP,0,1,TL,36,Impact,Rush,XiaoWeiXiao,Apollo,Adrian,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Summer,Season,DIG,0,1,GV,36,Gamsu,Helios,Shiphtur,CoreJJ,KiWiKiD,Hauntzer,Move,Keane,Altec,Bunny FuFuu
+2015,Summer,Season,CLG,1,0,NME,49,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo,Flaresz,Trashy,Innox,otter,Bodydrop
+2015,Summer,Season,DIG,1,0,TIP,40,Gamsu,Helios,Shiphtur,CoreJJ,KiWiKiD,Impact,Rush,XiaoWeiXiao,Apollo,Adrian
+2015,Summer,Season,TDK,0,1,CLG,39,Seraph,Kez,mancloud,Lattman,Smoothie,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo
+2015,Summer,Season,TL,0,1,TSM,42,Quas,IWDominate,FeniX,Piglet,Xpecial,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Summer,Season,GV,1,0,T8,34,Hauntzer,Move,Keane,Altec,Bunny FuFuu,CaliTrlolz8,Porpoise8,Goldenglue,Nien8,Dodo8
+2015,Summer,Season,NME,1,0,C9,36,Flaresz,Trashy,Innox,otter,Bodydrop,Balls,Meteos,Incarnati0n,Sneaky,LemonNation
+2015,Summer,Season,T8,1,0,TDK,51,CaliTrlolz8,Porpoise8,Goldenglue,Nien8,Dodo8,Seraph,Kez,mancloud,Lattman,Smoothie
+2015,Summer,Season,GV,0,1,TSM,48,Hauntzer,Move,Keane,Altec,Bunny FuFuu,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Summer,Season,CLG,1,0,C9,48,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo,Balls,Meteos,Incarnati0n,Sneaky,LemonNation
+2015,Summer,Season,NME,0,1,TIP,36,Flaresz,Trashy,Innox,otter,Bodydrop,Impact,Rush,XiaoWeiXiao,Apollo,Adrian
+2015,Summer,Season,TL,0,1,DIG,54,Quas,IWDominate,FeniX,Piglet,Xpecial,Gamsu,Helios,Shiphtur,CoreJJ,KiWiKiD
+2015,Summer,Season,TIP,0,1,GV,44,Impact,Rush,XiaoWeiXiao,Apollo,Adrian,Hauntzer,Move,Keane,Altec,Bunny FuFuu
+2015,Summer,Season,TL,1,0,CLG,37,Quas,IWDominate,FeniX,Piglet,Xpecial,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo
+2015,Summer,Season,TSM,1,0,T8,41,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,CaliTrlolz8,Porpoise8,Goldenglue,Nien8,Dodo8
+2015,Summer,Season,C9,1,0,TDK,38,Balls,Meteos,Incarnati0n,Sneaky,LemonNation,Seraph,Kez,mancloud,Lattman,Smoothie
+2015,Summer,Season,DIG,1,0,NME,30,Gamsu,Helios,Shiphtur,CoreJJ,KiWiKiD,Flaresz,Trashy,Innox,otter,Bodydrop
+2015,Summer,Season,GV,1,0,TL,49,Hauntzer,Move,Keane,Altec,Bunny FuFuu,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Summer,Season,TIP,1,0,C9,29,Impact,Rush,XiaoWeiXiao,Apollo,Adrian,Balls,Meteos,Incarnati0n,Sneaky,LemonNation
+2015,Summer,Season,TSM,1,0,CLG,39,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo
+2015,Summer,Season,TDK,1,0,DIG,36,Seraph,Kez,Ninja,Emperor,Smoothie,Gamsu,Helios,Shiphtur,CoreJJ,KiWiKiD
+2015,Summer,Season,T8,1,0,NME,49,CaliTrlolz8,Porpoise8,Goldenglue,Nien8,Dodo8,Flaresz,Trashy,Innox,otter,Bodydrop
+2015,Summer,Season,TIP,1,0,NME,32,Impact,Rush,XiaoWeiXiao,Apollo,Adrian,Flaresz,Trashy,Innox,otter,Bodydrop
+2015,Summer,Season,TDK,0,1,TSM,55,Seraph,Kez,Ninja,Emperor,Smoothie,Dyrus,Santorin,Bjergsen,KEITH,Lustboy
+2015,Summer,Season,C9,0,1,TL,42,Balls,Hai,Incarnati0n,Sneaky,LemonNation,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Summer,Season,CLG,0,1,GV,28,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo,Hauntzer,Move,Keane,Altec,Bunny FuFuu
+2015,Summer,Season,DIG,1,0,T8,38,Gamsu,Helios,Shiphtur,CoreJJ,KiWiKiD,CaliTrlolz8,Porpoise8,Goldenglue,Nien8,Dodo8
+2015,Summer,Season,NME,1,0,TDK,43,Flaresz,Trashy,Innox,otter,Bodydrop,Seraph,Kez,Ninja,Emperor,Smoothie
+2015,Summer,Season,CLG,0,1,TIP,40,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo,Impact,Rush,XiaoWeiXiao,Apollo,Adrian
+2015,Summer,Season,TSM,0,1,GV,41,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,Hauntzer,Move,Keane,Altec,Bunny FuFuu
+2015,Summer,Season,DIG,0,1,TL,29,Gamsu,Helios,Shiphtur,CoreJJ,KiWiKiD,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Summer,Season,T8,1,0,C9,40,CaliTrlolz8,Porpoise8,Goldenglue,Nien8,Dodo8,Balls,Hai,Incarnati0n,Sneaky,LemonNation
+2015,Summer,Season,TL,1,0,TDK,43,Quas,IWDominate,FeniX,Piglet,Xpecial,Seraph,Kez,Ninja,Emperor,Smoothie
+2015,Summer,Season,NME,0,1,CLG,29,Flaresz,Trashy,Innox,otter,Bodydrop,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo
+2015,Summer,Season,GV,1,0,C9,40,Hauntzer,Move,Keane,Altec,Bunny FuFuu,Balls,Hai,Incarnati0n,Sneaky,LemonNation
+2015,Summer,Season,T8,1,0,TSM,40,CaliTrlolz8,Porpoise8,Goldenglue,Nien8,Dodo8,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Summer,Season,TIP,1,0,DIG,34,Impact,Rush,XiaoWeiXiao,Apollo,Adrian,Gamsu,Helios,Shiphtur,CoreJJ,KiWiKiD
+2015,Summer,Season,NME,0,1,GV,39,Flaresz,Trashy,Innox,otter,Bodydrop,Hauntzer,Move,Keane,Altec,Bunny FuFuu
+2015,Summer,Season,C9,1,0,DIG,25,Balls,Hai,Incarnati0n,Sneaky,LemonNation,Gamsu,Helios,Shiphtur,CoreJJ,KiWiKiD
+2015,Summer,Season,TSM,0,1,TL,45,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Summer,Season,TIP,1,0,T8,40,Impact,Rush,XiaoWeiXiao,Apollo,Adrian,CaliTrlolz8,Porpoise8,Goldenglue,Nien8,Dodo8
+2015,Summer,Season,CLG,1,0,TDK,41,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo,Seraph,Kez,Ninja,Emperor,Smoothie
+2015,Summer,Season,C9,1,0,NME,29,Balls,Hai,Incarnati0n,Sneaky,LemonNation,Flaresz,Trashy,Innox,otter,Bodydrop
+2015,Summer,Season,TIP,1,0,TSM,40,Impact,Rush,XiaoWeiXiao,Apollo,Adrian,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Summer,Season,CLG,1,0,TL,38,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Summer,Season,GV,0,1,DIG,57,Hauntzer,Move,Keane,Altec,Bunny FuFuu,Gamsu,Helios,Shiphtur,CoreJJ,KiWiKiD
+2015,Summer,Season,TDK,0,1,T8,52,Seraph,Kez,Ninja,Emperor,Smoothie,CaliTrlolz8,Porpoise8,Goldenglue,Nien8,Dodo8
+2015,Summer,Season,TL,1,0,NME,27,Quas,IWDominate,FeniX,Piglet,Xpecial,Flaresz,Trashy,Innox,otter,Bodydrop
+2015,Summer,Season,C9,0,1,CLG,51,Balls,Hai,Incarnati0n,Sneaky,LemonNation,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo
+2015,Summer,Season,DIG,0,1,TSM,36,Gamsu,Helios,Shiphtur,CoreJJ,KiWiKiD,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Summer,Season,TDK,0,1,TIP,37,Seraph,Kez,Ninja,Emperor,Smoothie,Impact,Rush,XiaoWeiXiao,Apollo,Gate
+2015,Summer,Season,T8,0,1,GV,49,CaliTrlolz8,Porpoise8,Goldenglue,Nien8,Dodo8,Hauntzer,Move,Keane,Altec,Bunny FuFuu
+2015,Summer,Season,T8,0,1,TL,42,CaliTrlolz8,Porpoise8,Goldenglue,Nien8,Dodo8,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Summer,Season,DIG,0,1,CLG,30,Gamsu,Helios,Shiphtur,CoreJJ,KiWiKiD,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo
+2015,Summer,Season,GV,0,1,TIP,35,Hauntzer,Move,Keane,Altec,Bunny FuFuu,Impact,Rush,Gate,Apollo,Adrian
+2015,Summer,Season,NME,0,1,TSM,58,Flaresz,Trashy,Innox,otter,Bodydrop,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Summer,Season,TDK,1,0,C9,38,Seraph,Kez,Ninja,Emperor,Smoothie,Balls,Hai,Incarnati0n,Sneaky,LemonNation
+2015,Summer,Season,NME,0,1,DIG,32,Flaresz,Trashy,Innox,otter,Bodydrop,Gamsu,Helios,Shiphtur,CoreJJ,KiWiKiD
+2015,Summer,Season,CLG,1,0,T8,28,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo,CaliTrlolz8,Porpoise8,Goldenglue,Nien8,Dodo8
+2015,Summer,Season,TSM,0,1,C9,32,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,Balls,Hai,Incarnati0n,Sneaky,LemonNation
+2015,Summer,Season,GV,0,1,TDK,33,Hauntzer,Move,Keane,Altec,Bunny FuFuu,Seraph,Kez,Ninja,Emperor,Smoothie
+2015,Summer,Season,TL,1,0,TIP,60,Quas,IWDominate,FeniX,Piglet,Xpecial,Impact,Rush,Gate,Apollo,Adrian
+2015,Summer,Season,T8,0,1,C9,33,CaliTrlolz8,Porpoise8,Goldenglue,Nien8,Dodo8,Balls,Hai,Incarnati0n,Sneaky,LemonNation
+2015,Summer,Season,TIP,1,0,GV,29,Impact,Rush,Gate,Apollo,Adrian,Hauntzer,Move,Keane,Altec,Bunny FuFuu
+2015,Summer,Season,TL,1,0,CLG,36,Quas,IWDominate,FeniX,Piglet,Xpecial,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo
+2015,Spring,Playoffs,CLG,0,1,TL,40,ZionSpartan,Xmithie,Link,Doublelift,aphromoo,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Spring,Playoffs,TL,1,0,CLG,35,Quas,IWDominate,FeniX,Piglet,Xpecial,ZionSpartan,Xmithie,Link,Doublelift,aphromoo
+2015,Spring,Playoffs,CLG,0,1,TL,33,ZionSpartan,Xmithie,Link,Doublelift,aphromoo,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Spring,Playoffs,TIP,1,0,GV,26,Impact,Rush,XiaoWeiXiao,Apollo,Adrian,Hauntzer,Saintvicious,Keane,Cop,Bunny FuFuu
+2015,Spring,Playoffs,GV,1,0,TIP,43,Hauntzer,Saintvicious,Keane,Cop,Bunny FuFuu,Impact,Rush,XiaoWeiXiao,Apollo,Adrian
+2015,Spring,Playoffs,GV,0,1,TIP,32,Hauntzer,Saintvicious,Keane,Cop,Bunny FuFuu,Impact,Rush,XiaoWeiXiao,Apollo,Adrian
+2015,Spring,Playoffs,GV,0,1,TIP,26,Hauntzer,Saintvicious,Keane,Cop,Bunny FuFuu,Impact,Rush,XiaoWeiXiao,Apollo,Adrian
+2015,Spring,Playoffs,C9,0,1,TL,41,Balls,Meteos,Hai,Sneaky,LemonNation,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Spring,Playoffs,TL,1,0,C9,33,Quas,IWDominate,FeniX,Piglet,Xpecial,Balls,Meteos,Hai,Sneaky,LemonNation
+2015,Spring,Playoffs,C9,1,0,TL,39,Balls,Meteos,Hai,Sneaky,LemonNation,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Spring,Playoffs,TL,0,1,C9,42,Quas,IWDominate,FeniX,Piglet,Xpecial,Balls,Meteos,Hai,Sneaky,LemonNation
+2015,Spring,Playoffs,C9,1,0,TL,32,Balls,Meteos,Hai,Sneaky,LemonNation,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Spring,Playoffs,TSM,0,1,TIP,39,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,Impact,Rush,XiaoWeiXiao,Apollo,Adrian
+2015,Spring,Playoffs,TIP,0,1,TSM,42,Impact,Rush,XiaoWeiXiao,Apollo,Adrian,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Spring,Playoffs,TIP,0,1,TSM,30,Impact,Rush,XiaoWeiXiao,Apollo,Adrian,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Spring,Playoffs,TIP,0,1,TSM,30,Impact,Rush,XiaoWeiXiao,Apollo,Adrian,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Spring,Playoffs,TIP,1,0,TL,38,Impact,Rush,XiaoWeiXiao,Apollo,Adrian,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Spring,Playoffs,TL,1,0,TIP,42,Quas,IWDominate,FeniX,Piglet,Xpecial,Impact,Rush,XiaoWeiXiao,Apollo,Adrian
+2015,Spring,Playoffs,TL,0,1,TIP,41,Quas,IWDominate,FeniX,Piglet,Xpecial,Impact,Rush,XiaoWeiXiao,Apollo,Adrian
+2015,Spring,Playoffs,TL,1,0,TIP,30,Quas,IWDominate,FeniX,Piglet,Xpecial,Impact,Rush,XiaoWeiXiao,Apollo,Adrian
+2015,Spring,Playoffs,TIP,0,1,TL,37,Impact,Rush,XiaoWeiXiao,Apollo,Adrian,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Spring,Playoffs,TSM,0,1,C9,34,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,Balls,Meteos,Hai,Sneaky,LemonNation
+2015,Spring,Playoffs,C9,0,1,TSM,43,Balls,Meteos,Hai,Sneaky,LemonNation,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Spring,Playoffs,TSM,1,0,C9,35,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,Balls,Meteos,Hai,Sneaky,LemonNation
+2015,Spring,Playoffs,C9,0,1,TSM,33,Balls,Meteos,Hai,Sneaky,LemonNation,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Summer,Playoffs,TIP,1,0,DIG,41,Impact,Rush,Gate,Apollo,Adrian,Gamsu,Helios,Shiphtur,CoreJJ,KiWiKiD
+2015,Summer,Playoffs,DIG,0,1,TIP,38,Gamsu,Helios,Shiphtur,CoreJJ,KiWiKiD,Impact,Rush,Gate,Apollo,Adrian
+2015,Summer,Playoffs,TIP,1,0,DIG,38,Impact,Rush,Gate,Apollo,Adrian,Gamsu,Helios,Shiphtur,CoreJJ,KiWiKiD
+2015,Summer,Playoffs,GV,0,1,TSM,40,Hauntzer,Move,Keane,Altec,Bunny FuFuu,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Summer,Playoffs,GV,1,0,TSM,47,Hauntzer,Move,Keane,Altec,Bunny FuFuu,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Summer,Playoffs,TSM,1,0,GV,32,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,Hauntzer,Move,Keane,Altec,Bunny FuFuu
+2015,Summer,Playoffs,GV,0,1,TSM,30,Hauntzer,Move,Keane,Altec,Bunny FuFuu,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Summer,Playoffs,CLG,1,0,TIP,44,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo,Impact,Rush,Gate,Apollo,Adrian
+2015,Summer,Playoffs,TIP,0,1,CLG,40,Impact,Rush,Gate,Apollo,Adrian,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo
+2015,Summer,Playoffs,CLG,1,0,TIP,28,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo,Impact,Rush,Gate,Apollo,Adrian
+2015,Summer,Playoffs,TL,0,1,TSM,54,Quas,IWDominate,FeniX,Piglet,Xpecial,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Summer,Playoffs,TSM,1,0,TL,56,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Summer,Playoffs,TL,1,0,TSM,44,Quas,IWDominate,FeniX,Piglet,Xpecial,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Summer,Playoffs,TSM,1,0,TL,38,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Summer,Playoffs,TL,1,0,TIP,41,Quas,IWDominate,FeniX,Piglet,Xpecial,Impact,Rush,Gate,Apollo,Adrian
+2015,Summer,Playoffs,TIP,1,0,TL,38,Impact,Rush,Gate,Apollo,Adrian,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Summer,Playoffs,TL,1,0,TIP,33,Quas,IWDominate,FeniX,Piglet,Xpecial,Impact,Rush,Gate,Apollo,Adrian
+2015,Summer,Playoffs,TIP,0,1,TL,37,Impact,Rush,Gate,Apollo,Adrian,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Summer,Playoffs,CLG,1,0,TSM,40,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Summer,Playoffs,TSM,0,1,CLG,32,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo
+2015,Summer,Playoffs,CLG,1,0,TSM,35,ZionSpartan,Xmithie,Pobelter,Doublelift,aphromoo,Dyrus,Santorin,Bjergsen,WildTurtle,Lustboy
+2015,Summer,Regional,C9,0,1,GV,35,Balls,Hai,Incarnati0n,Sneaky,LemonNation,Hauntzer,Move,Keane,Altec,Bunny FuFuu
+2015,Summer,Regional,C9,0,1,GV,41,Balls,Hai,Incarnati0n,Sneaky,LemonNation,Hauntzer,Move,Keane,Altec,Bunny FuFuu
+2015,Summer,Regional,C9,1,0,GV,34,Balls,Hai,Incarnati0n,Sneaky,LemonNation,Hauntzer,Move,Keane,Altec,Bunny FuFuu
+2015,Summer,Regional,C9,1,0,GV,37,Balls,Hai,Incarnati0n,Sneaky,LemonNation,Hauntzer,Move,Keane,Altec,Bunny FuFuu
+2015,Summer,Regional,C9,1,0,GV,31,Balls,Hai,Incarnati0n,Sneaky,LemonNation,Hauntzer,Move,Keane,Altec,Bunny FuFuu
+2015,Summer,Regional,TIP,1,0,C9,34,Impact,Rush,Gate,Apollo,Adrian,Balls,Hai,Incarnati0n,Sneaky,LemonNation
+2015,Summer,Regional,C9,0,1,TIP,34,Balls,Hai,Incarnati0n,Sneaky,LemonNation,Impact,Rush,Gate,Apollo,Adrian
+2015,Summer,Regional,TIP,0,1,C9,29,Impact,Rush,Gate,Apollo,Adrian,Balls,Hai,Incarnati0n,Sneaky,LemonNation
+2015,Summer,Regional,C9,1,0,TIP,36,Balls,Hai,Incarnati0n,Sneaky,LemonNation,Impact,Rush,Gate,Apollo,Adrian
+2015,Summer,Regional,TIP,0,1,C9,39,Impact,Rush,Gate,Apollo,Adrian,Balls,Hai,Incarnati0n,Sneaky,LemonNation
+2015,Summer,Regional,TL,0,1,C9,32,Quas,IWDominate,FeniX,Piglet,Xpecial,Balls,Hai,Incarnati0n,Sneaky,LemonNation
+2015,Summer,Regional,C9,0,1,TL,29,Balls,Hai,Incarnati0n,Sneaky,LemonNation,Quas,IWDominate,FeniX,Piglet,Xpecial
+2015,Summer,Regional,TL,0,1,C9,58,Quas,IWDominate,FeniX,Piglet,Xpecial,Balls,Hai,Incarnati0n,Sneaky,LemonNation
+2015,Summer,Regional,C9,1,0,TL,42,Balls,Hai,Incarnati0n,Sneaky,LemonNation,Quas,IWDominate,FeniX,Piglet,Xpecial
+2016,Spring,Season,TSM,0,1,CLG,45,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Spring,Season,C9,0,1,IMT,28,Balls,Rush,Jensen,Sneaky,Bunny FuFuu,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Spring,Season,DIG,0,1,NRG,41,Smittyj,Kirei,Shiphtur,Apollo,KiWiKiD,Cris,Shrimp,GBM,Altec,KonKwon
+2016,Spring,Season,REN,1,0,TL,62,RF Legendary,Crumbz,AlexIch,Freeze,Remi,Lourlo,IWDominate,Fenix,Piglet,Smoothie
+2016,Spring,Season,FOX,1,0,TIP,37,kfo,Hard,Froggen,Keith,Big,Feng,beibei,Gate,Mash,Ken
+2016,Spring,Season,REN,0,1,NRG,36,RF Legendary,Crumbz,AlexIch,Freeze,Remi,Impact,Moon,GBM,Altec,KonKwon
+2016,Spring,Season,DIG,1,0,CLG,32,Smittyj,Kirei,Shiphtur,Apollo,KiWiKiD,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Spring,Season,TSM,1,0,TL,44,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar,Lourlo,Dardoch,Fenix,Piglet,Matt
+2016,Spring,Season,FOX,0,1,C9,29,kfo,Hard,Froggen,Keith,Big,Balls,Rush,Jensen,Sneaky,Hai
+2016,Spring,Season,IMT,1,0,TIP,19,Huni,Reignover,Pobelter,WildTurtle,Adrian,Feng,beibei,Gate,Mash,Ken
+2016,Spring,Season,TIP,1,0,C9,36,Seraph,beibei,Gate,Mash,Ken,Balls,Rush,Jensen,Sneaky,Bunny FuFuu
+2016,Spring,Season,TSM,0,1,IMT,39,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Spring,Season,TL,0,1,CLG,32,Lourlo,Dardoch,Fenix,Piglet,Matt,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Spring,Season,DIG,1,0,REN,48,BillyBoss,Kirei,Shiphtur,Apollo,KiWiKiD,RF Legendary,Crumbz,AlexIch,LOD,Remi
+2016,Spring,Season,TSM,1,0,DIG,29,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar,BillyBoss,Kirei,Shiphtur,Apollo,KiWiKiD
+2016,Spring,Season,NRG,0,1,IMT,34,Impact,Moon,GBM,Altec,KonKwon,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Spring,Season,CLG,0,1,C9,33,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Balls,Rush,Jensen,Sneaky,Hai
+2016,Spring,Season,FOX,0,1,TL,49,Solo,Grigne,Goldenglue,Keith,Big,Lourlo,Dardoch,Fenix,Piglet,Matt
+2016,Spring,Season,REN,0,1,TIP,42,RF Legendary,Crumbz,AlexIch,LOD,Remi,Gate,Procxin,Pirean,Mash,Ken
+2016,Spring,Season,TIP,1,0,DIG,27,Seraph,Procxin,Pirean,Mash,Gate,BillyBoss,Kirei,Shiphtur,Apollo,KiWiKiD
+2016,Spring,Season,C9,0,1,TSM,29,Balls,Rush,Jensen,Sneaky,Hai,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar
+2016,Spring,Season,TL,1,0,NRG,35,Lourlo,Dardoch,Fenix,Piglet,Matt,Impact,Moon,GBM,Altec,KonKwon
+2016,Spring,Season,CLG,1,0,FOX,33,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Solo,Grigne,Goldenglue,Keith,Big
+2016,Spring,Season,IMT,1,0,REN,30,Huni,Reignover,Pobelter,WildTurtle,Adrian,RF Legendary,Crumbz,AlexIch,Ohq,Remi
+2016,Spring,Season,TL,1,0,TIP,31,Lourlo,Dardoch,Fenix,Piglet,Matt,Seraph,Procxin,Pirean,Mash,Gate
+2016,Spring,Season,NRG,1,0,TSM,32,Impact,Moon,GBM,Altec,KonKwon,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar
+2016,Spring,Season,DIG,0,1,C9,31,BillyBoss,Kirei,Shiphtur,Apollo,KiWiKiD,Balls,Rush,Jensen,Sneaky,Hai
+2016,Spring,Season,FOX,0,1,IMT,20,Solo,Grigne,Goldenglue,Keith,Big,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Spring,Season,CLG,1,0,REN,42,Darshan,Xmithie,Huhi,Stixxay,aphromoo,RF Legendary,Crumbz,AlexIch,Freeze,Remi
+2016,Spring,Season,TL,1,0,DIG,31,Lourlo,Dardoch,Fenix,Piglet,Matt,BillyBoss,Kirei,Shiphtur,Apollo,KiWiKiD
+2016,Spring,Season,C9,1,0,REN,20,Balls,Rush,Jensen,Sneaky,Hai,RF Legendary,Crumbz,AlexIch,Freeze,Hakuho
+2016,Spring,Season,CLG,0,1,IMT,33,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Spring,Season,TSM,1,0,FOX,39,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar,Solo,Hard,Goldenglue,Keith,Big
+2016,Spring,Season,NRG,1,0,TIP,41,Impact,Moon,GBM,Altec,KonKwon,Feng,Procxin,Pirean,Mash,Gate
+2016,Spring,Season,IMT,1,0,TL,29,Huni,Reignover,Pobelter,WildTurtle,Adrian,Lourlo,Dardoch,Fenix,Piglet,Matt
+2016,Spring,Season,C9,1,0,NRG,30,Balls,Rush,Jensen,Sneaky,Hai,Impact,Moon,GBM,Altec,KonKwon
+2016,Spring,Season,REN,0,1,TSM,39,Flaresz,Crumbz,AlexIch,Freeze,Hakuho,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar
+2016,Spring,Season,TIP,0,1,CLG,24,Feng,Procxin,Pirean,Mash,Gate,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Spring,Season,DIG,1,0,FOX,44,BillyBoss,Kirei,Shiphtur,Apollo,KiWiKiD,Solo,Hard,Goldenglue,LOD,Stunt
+2016,Spring,Season,FOX,1,0,REN,32,kfo,Hard,Froggen,Keith,Big,Flaresz,Crumbz,AlexIch,Freeze,Hakuho
+2016,Spring,Season,NRG,0,1,CLG,43,Impact,Moon,GBM,Altec,KonKwon,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Spring,Season,C9,1,0,TL,30,Balls,Rush,Jensen,Sneaky,Hai,Lourlo,Dardoch,Fenix,Piglet,Matt
+2016,Spring,Season,TIP,0,1,TSM,32,Feng,Procxin,Pirean,Mash,Gate,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar
+2016,Spring,Season,IMT,1,0,DIG,27,Huni,Reignover,Pobelter,WildTurtle,Adrian,BillyBoss,Kirei,Shiphtur,Apollo,KiWiKiD
+2016,Spring,Season,FOX,1,0,NRG,34,kfo,Hard,Froggen,Keith,Big,Impact,Moon,GBM,Altec,KonKwon
+2016,Spring,Season,CLG,0,1,TSM,29,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar
+2016,Spring,Season,IMT,1,0,C9,30,Huni,Reignover,Pobelter,WildTurtle,Adrian,Balls,Rush,Jensen,Sneaky,Hai
+2016,Spring,Season,TL,1,0,REN,33,Lourlo,Dardoch,Fenix,Piglet,Matt,Flaresz,Crumbz,AlexIch,Freeze,Hakuho
+2016,Spring,Season,DIG,0,1,TIP,46,BillyBoss,Kirei,Shiphtur,Apollo,KiWiKiD,Feng,Procxin,Pirean,Mash,Gate
+2016,Spring,Season,NRG,1,0,DIG,28,Impact,Moon,GBM,Altec,KonKwon,BillyBoss,Kirei,Shiphtur,Apollo,KiWiKiD
+2016,Spring,Season,REN,0,1,IMT,33,RF Legendary,Crumbz,AlexIch,Freeze,Hakuho,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Spring,Season,TSM,0,1,C9,47,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar,Balls,Rush,Jensen,Sneaky,Hai
+2016,Spring,Season,CLG,1,0,TIP,26,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Feng,Procxin,Pirean,Mash,Gate
+2016,Spring,Season,TL,0,1,FOX,58,Lourlo,Dardoch,Fenix,Piglet,Matt,kfo,Hard,Froggen,Keith,Big
+2016,Spring,Season,REN,0,1,CLG,31,RF Legendary,Crumbz,AlexIch,Freeze,Hakuho,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Spring,Season,DIG,1,0,TSM,37,BillyBoss,Kirei,Shiphtur,Apollo,KiWiKiD,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar
+2016,Spring,Season,NRG,0,1,C9,39,Impact,Moon,GBM,Altec,KonKwon,Balls,Rush,Jensen,Sneaky,Hai
+2016,Spring,Season,TIP,0,1,FOX,33,Feng,Procxin,Pirean,Mash,Gate,kfo,Hard,Froggen,Keith,Big
+2016,Spring,Season,TL,0,1,IMT,28,Lourlo,Dardoch,Fenix,Piglet,Matt,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Spring,Season,TIP,0,1,TL,28,Feng,Procxin,Pirean,Mash,Gate,Lourlo,Dardoch,Fenix,Piglet,Matt
+2016,Spring,Season,FOX,0,1,TSM,31,kfo,Hard,Froggen,Keith,Big,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar
+2016,Spring,Season,IMT,0,1,CLG,43,Huni,Reignover,Pobelter,WildTurtle,Adrian,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Spring,Season,NRG,1,0,REN,30,Impact,Moon,GBM,LOD,KonKwon,Seraph,Crumbz,AlexIch,Freeze,Hakuho
+2016,Spring,Season,C9,1,0,DIG,29,Balls,Rush,Jensen,Sneaky,Hai,BillyBoss,Kirei,Shiphtur,Apollo,KiWiKiD
+2016,Spring,Season,TIP,1,0,NRG,40,Feng,Procxin,Pirean,Mash,Gate,Impact,Moon,GBM,LOD,KonKwon
+2016,Spring,Season,C9,0,1,CLG,41,Balls,Rush,Jensen,Sneaky,Hai,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Spring,Season,TL,1,0,TSM,30,Lourlo,Dardoch,Fenix,Piglet,Matt,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar
+2016,Spring,Season,REN,1,0,DIG,46,Seraph,Crumbz,AlexIch,Freeze,Hakuho,BillyBoss,Kirei,Shiphtur,Apollo,KiWiKiD
+2016,Spring,Season,IMT,1,0,FOX,26,Huni,Reignover,Pobelter,WildTurtle,Adrian,kfo,Hard,Froggen,Keith,Big
+2016,Spring,Season,REN,0,1,C9,57,Seraph,Crumbz,Ninja,Freeze,Hakuho,Balls,Rush,Jensen,Sneaky,Hai
+2016,Spring,Season,IMT,1,0,NRG,38,Huni,Reignover,Pobelter,WildTurtle,Adrian,Impact,Moon,GBM,Altec,KonKwon
+2016,Spring,Season,CLG,0,1,TL,38,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Lourlo,Dardoch,Fenix,Piglet,Matt
+2016,Spring,Season,TSM,1,0,TIP,30,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar,Feng,Procxin,Pirean,Mash,Gate
+2016,Spring,Season,FOX,1,0,DIG,68,kfo,Hard,Froggen,Keith,Big,BillyBoss,Kirei,Shiphtur,Apollo,KiWiKiD
+2016,Spring,Season,C9,1,0,TIP,30,Balls,Rush,Jensen,Sneaky,Hai,Feng,Procxin,Pirean,Mash,Gate
+2016,Spring,Season,NRG,1,0,TL,35,Impact,Moon,GBM,Altec,KonKwon,Lourlo,Dardoch,Fenix,Piglet,Matt
+2016,Spring,Season,TSM,0,1,REN,30,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar,Seraph,Crumbz,Ninja,Freeze,Hakuho
+2016,Spring,Season,DIG,0,1,IMT,49,BillyBoss,Kirei,Shiphtur,Apollo,KiWiKiD,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Spring,Season,FOX,0,1,CLG,41,kfo,Hard,Froggen,Keith,Big,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Spring,Season,TIP,0,1,REN,38,Feng,Procxin,Pirean,Mash,Gate,Seraph,Crumbz,Ninja,Freeze,Hakuho
+2016,Spring,Season,CLG,1,0,NRG,25,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Impact,Moon,GBM,Altec,KonKwon
+2016,Spring,Season,IMT,1,0,TSM,29,Huni,Reignover,Pobelter,WildTurtle,Adrian,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar
+2016,Spring,Season,DIG,0,1,TL,35,BillyBoss,Kirei,Shiphtur,Apollo,KiWiKiD,Lourlo,Dardoch,Fenix,Piglet,Matt
+2016,Spring,Season,C9,1,0,FOX,34,Balls,Rush,Jensen,Sneaky,Hai,kfo,Hard,Froggen,Keith,Big
+2016,Spring,Season,REN,1,0,FOX,44,Seraph,Crumbz,Ninja,Freeze,Hakuho,kfo,Hard,Froggen,Keith,Big
+2016,Spring,Season,TL,1,0,C9,34,Lourlo,Dardoch,Fenix,Piglet,Matt,Balls,Rush,Jensen,Sneaky,Hai
+2016,Spring,Season,TIP,0,1,IMT,30,Feng,Procxin,Pirean,Mash,Gate,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Spring,Season,CLG,1,0,DIG,26,Darshan,Xmithie,Huhi,Stixxay,aphromoo,BillyBoss,Kirei,Shiphtur,Apollo,KiWiKiD
+2016,Spring,Season,TSM,0,1,NRG,45,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar,Impact,Moon,GBM,Altec,KonKwon
+2016,Spring,Season,TIP,0,1,REN,39,Feng,Procxin,Pirean,Mash,Gate,Seraph,Crumbz,Ninja,Freeze,Hakuho
+2016,Summer,Season,TSM,1,0,CLG,33,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Season,CLG,0,1,TSM,39,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2016,Summer,Season,NV,1,0,NRG,32,Seraph,Procxin,Ninja,LOD,Hakuho,Quas,Santorin,GBM,ohq,KiWiKiD
+2016,Summer,Season,NRG,1,0,NV,65,Quas,Santorin,GBM,ohq,KiWiKiD,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Season,NV,1,0,NRG,43,Seraph,Procxin,Ninja,LOD,Hakuho,Quas,Santorin,GBM,ohq,KiWiKiD
+2016,Summer,Season,C9,0,1,IMT,42,Impact,Meteos,Jensen,Sneaky,Bunny FuFuu,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Season,IMT,0,1,C9,44,Huni,Reignover,Pobelter,WildTurtle,Adrian,Impact,Meteos,Jensen,Sneaky,Smoothie
+2016,Summer,Season,C9,0,1,IMT,44,Impact,Meteos,Jensen,Sneaky,Smoothie,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Season,NV,1,0,TL,51,Seraph,Procxin,Ninja,LOD,Hakuho,Lourlo,Moon,Fenix,Piglet,Matt
+2016,Summer,Season,TL,0,1,NV,35,Lourlo,Moon,Fenix,Piglet,Matt,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Season,APX,1,0,CLG,57,Ray,ShrimP,Keane,Apollo,Xpecial,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Season,CLG,1,0,APX,32,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Ray,ShrimP,Keane,Apollo,Xpecial
+2016,Summer,Season,APX,1,0,CLG,41,Ray,ShrimP,Keane,Apollo,Xpecial,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Season,FOX,1,0,C9,30,kfo,Hard,Froggen,Keith,Big,Impact,Meteos,Jensen,Sneaky,Smoothie
+2016,Summer,Season,C9,1,0,FOX,34,Impact,Meteos,Jensen,Sneaky,Bunny FuFuu,kfo,Hard,Froggen,Keith,Big
+2016,Summer,Season,FOX,0,1,C9,29,kfo,Hard,Froggen,Keith,Big,Impact,Meteos,Jensen,Sneaky,Bunny FuFuu
+2016,Summer,Season,FOX,1,0,P1,48,kfo,Hard,Froggen,Keith,Big,zig,Zentinel,Pirean,Mash,Gate
+2016,Summer,Season,P1,0,1,FOX,43,zig,Zentinel,Slooshi,Mash,Gate,kfo,Hard,Froggen,Keith,Big
+2016,Summer,Season,APX,1,0,NRG,39,Ray,ShrimP,Keane,Apollo,Xpecial,Quas,Santorin,GBM,ohq,KiWiKiD
+2016,Summer,Season,NRG,0,1,APX,43,Quas,Santorin,GBM,ohq,KiWiKiD,Ray,ShrimP,Keane,Apollo,Xpecial
+2016,Summer,Season,TSM,1,0,TL,32,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Lourlo,Moon,Fenix,Piglet,Matt
+2016,Summer,Season,TL,0,1,TSM,33,Lourlo,Dardoch,Fenix,Piglet,Matt,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2016,Summer,Season,IMT,1,0,P1,34,Huni,Reignover,Pobelter,WildTurtle,Adrian,zig,Zentinel,Slooshi,Mash,Gate
+2016,Summer,Season,P1,0,1,IMT,27,zig,Zentinel,Slooshi,Mash,Gate,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Season,NRG,1,0,IMT,43,Quas,Santorin,GBM,ohq,KiWiKiD,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Season,IMT,1,0,NRG,35,Huni,Reignover,Pobelter,WildTurtle,Adrian,Quas,Santorin,GBM,ohq,KiWiKiD
+2016,Summer,Season,NRG,0,1,IMT,35,Quas,Santorin,GBM,ohq,KiWiKiD,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Season,APX,0,1,NV,36,Ray,ShrimP,Keane,Apollo,Xpecial,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Season,NV,0,1,APX,36,Seraph,Procxin,Ninja,LOD,Hakuho,Ray,ShrimP,Keane,Apollo,Xpecial
+2016,Summer,Season,APX,0,1,NV,30,Ray,ShrimP,Keane,Apollo,Xpecial,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Season,TL,1,0,CLG,28,Lourlo,Dardoch,Fenix,Piglet,Matt,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Season,CLG,1,0,TL,27,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Lourlo,Dardoch,Fenix,Piglet,Matt
+2016,Summer,Season,TL,0,1,CLG,32,Lourlo,Dardoch,Fenix,Piglet,Matt,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Season,P1,0,1,C9,32,zig,Zentinel,Pirean,Slooshi,Gate,Impact,Meteos,Jensen,Sneaky,Bunny FuFuu
+2016,Summer,Season,C9,0,1,P1,58,Impact,Meteos,Jensen,Sneaky,Smoothie,zig,Zentinel,Pirean,Slooshi,Gate
+2016,Summer,Season,P1,0,1,C9,30,zig,Zentinel,Pirean,Slooshi,Gate,Impact,Meteos,Jensen,Sneaky,Bunny FuFuu
+2016,Summer,Season,TSM,1,0,IMT,27,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Season,IMT,1,0,TSM,27,Huni,Reignover,Pobelter,WildTurtle,Adrian,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2016,Summer,Season,TSM,1,0,IMT,44,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Season,FOX,0,1,TL,44,kfo,Hard,Froggen,Keith,Big,Lourlo,Dardoch,Fenix,Piglet,Matt
+2016,Summer,Season,TL,1,0,FOX,41,Lourlo,Dardoch,Fenix,Piglet,Matt,kfo,Hard,Froggen,Keith,Big
+2016,Summer,Season,NRG,1,0,FOX,49,Quas,Santorin,GBM,ohq,KiWiKiD,kfo,Hard,Froggen,Keith,Big
+2016,Summer,Season,FOX,0,1,NRG,33,kfo,Hard,Froggen,Keith,Big,Quas,Santorin,GBM,ohq,KiWiKiD
+2016,Summer,Season,TSM,1,0,APX,34,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Ray,ShrimP,Keane,Apollo,Xpecial
+2016,Summer,Season,APX,0,1,TSM,30,Ray,ShrimP,Keane,Apollo,Xpecial,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2016,Summer,Season,NV,1,0,P1,41,Seraph,Procxin,Ninja,LOD,Hakuho,zig,Zentinel,Pirean,Slooshi,Gate
+2016,Summer,Season,P1,0,1,NV,28,Brandini,Zentinel,Pirean,Slooshi,Gate,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Season,CLG,0,1,C9,35,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Impact,Meteos,Jensen,Sneaky,Bunny FuFuu
+2016,Summer,Season,C9,1,0,CLG,42,Impact,Meteos,Jensen,Sneaky,Smoothie,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Season,C9,0,1,TSM,31,Impact,Meteos,Jensen,Sneaky,Bunny FuFuu,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2016,Summer,Season,TSM,0,1,C9,27,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Impact,Meteos,Jensen,Sneaky,Smoothie
+2016,Summer,Season,C9,0,1,TSM,38,Impact,Meteos,Jensen,Sneaky,Bunny FuFuu,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2016,Summer,Season,TL,1,0,P1,29,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt,zig,Zentinel,Pirean,Mash,Gate
+2016,Summer,Season,P1,0,1,TL,27,zig,Zentinel,Slooshi,Mash,Gate,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt
+2016,Summer,Season,IMT,1,0,NV,43,Huni,Reignover,Pobelter,WildTurtle,Adrian,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Season,NV,0,1,IMT,55,Seraph,Procxin,Ninja,LOD,Hakuho,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Season,TL,1,0,NRG,37,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt,Quas,Santorin,GBM,ohq,KiWiKiD
+2016,Summer,Season,NRG,1,0,TL,33,Quas,Santorin,GBM,ohq,KiWiKiD,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt
+2016,Summer,Season,TL,1,0,NRG,28,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt,Quas,Santorin,GBM,ohq,KiWiKiD
+2016,Summer,Season,NRG,0,1,TSM,36,Quas,Santorin,GBM,ohq,KiWiKiD,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2016,Summer,Season,TSM,1,0,NRG,29,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Quas,Santorin,GBM,ohq,KiWiKiD
+2016,Summer,Season,FOX,0,1,IMT,30,kfo,Grigne,Froggen,Keith,Big,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Season,IMT,1,0,FOX,39,Huni,Reignover,Pobelter,WildTurtle,Adrian,kfo,Hard,Froggen,Keith,Big
+2016,Summer,Season,CLG,1,0,FOX,25,Darshan,Xmithie,Huhi,Stixxay,aphromoo,kfo,Hard,Froggen,Keith,Big
+2016,Summer,Season,FOX,0,1,CLG,29,kfo,Grigne,Froggen,Keith,Big,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Season,P1,0,1,APX,41,zig,Zentinel,Slooshi,Mash,Gate,Ray,ShrimP,Keane,Apollo,Xpecial
+2016,Summer,Season,APX,0,1,P1,37,Ray,ShrimP,Keane,Apollo,Xpecial,zig,Zentinel,Pirean,Mash,Gate
+2016,Summer,Season,P1,0,1,APX,30,zig,Zentinel,Pirean,Mash,Gate,Ray,ShrimP,Keane,Apollo,Xpecial
+2016,Summer,Season,APX,0,1,C9,40,Ray,ShrimP,Keane,Apollo,Xpecial,Impact,Meteos,Jensen,Sneaky,Smoothie
+2016,Summer,Season,C9,0,1,APX,60,Impact,Meteos,Jensen,Sneaky,Bunny FuFuu,Ray,ShrimP,Keane,Apollo,Xpecial
+2016,Summer,Season,APX,0,1,C9,37,Ray,ShrimP,Keane,Apollo,Xpecial,Impact,Meteos,Jensen,Sneaky,Smoothie
+2016,Summer,Season,CLG,1,0,NV,44,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Season,NV,1,0,CLG,35,Seraph,Procxin,Ninja,LOD,Hakuho,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Season,CLG,0,1,NV,32,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Season,CLG,1,0,IMT,35,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Season,IMT,1,0,CLG,27,Huni,Reignover,Pobelter,WildTurtle,Adrian,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Season,CLG,0,1,IMT,32,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Season,APX,0,1,TL,37,Ray,ShrimP,Keane,Apollo,Xpecial,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt
+2016,Summer,Season,C9,1,0,NV,33,Impact,Meteos,Jensen,Sneaky,Smoothie,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Season,NV,0,1,C9,39,Seraph,Procxin,Ninja,LOD,Hakuho,Impact,Meteos,Jensen,Sneaky,Bunny FuFuu
+2016,Summer,Season,IMT,1,0,TL,24,Huni,Reignover,Pobelter,WildTurtle,Adrian,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt
+2016,Summer,Season,TL,0,1,IMT,28,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Season,C9,1,0,NRG,27,Impact,Meteos,Jensen,Sneaky,Smoothie,Quas,Santorin,GBM,ohq,KiWiKiD
+2016,Summer,Season,NRG,0,1,C9,36,Quas,Santorin,GBM,ohq,KiWiKiD,Impact,Meteos,Jensen,Sneaky,Bunny FuFuu
+2016,Summer,Season,P1,0,1,CLG,30,zig,Inori,Pirean,Mash,Gate,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Season,CLG,1,0,P1,38,Darshan,Xmithie,Huhi,Stixxay,aphromoo,zig,Inori,Pirean,Mash,Gate
+2016,Summer,Season,TSM,0,1,FOX,47,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,kfo,Hard,Froggen,Keith,Big
+2016,Summer,Season,FOX,0,1,TSM,32,kfo,Hard,Froggen,Keith,Big,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2016,Summer,Season,TSM,1,0,FOX,37,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,kfo,Hard,Froggen,Keith,Big
+2016,Summer,Season,NRG,1,0,P1,44,Quas,Santorin,GBM,ohq,KiWiKiD,zig,Inori,Pirean,Mash,Gate
+2016,Summer,Season,P1,1,0,NRG,55,zig,Inori,Pirean,Mash,Gate,Quas,Santorin,GBM,ohq,KiWiKiD
+2016,Summer,Season,NRG,1,0,P1,41,Quas,Santorin,GBM,ohq,KiWiKiD,zig,Inori,Pirean,Mash,Gate
+2016,Summer,Season,NV,0,1,TSM,36,Seraph,Procxin,Ninja,LOD,Hakuho,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2016,Summer,Season,TSM,1,0,NV,31,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Season,APX,1,0,FOX,36,Ray,ShrimP,Keane,Apollo,Xpecial,kfo,Hard,Froggen,Keith,Big
+2016,Summer,Season,FOX,0,1,APX,42,kfo,Hard,Froggen,Keith,Big,Ray,ShrimP,Keane,Apollo,Xpecial
+2016,Summer,Season,C9,1,0,TL,45,Impact,Meteos,Jensen,Sneaky,Bunny FuFuu,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt
+2016,Summer,Season,TL,1,0,C9,36,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt,Impact,Meteos,Jensen,Sneaky,Smoothie
+2016,Summer,Season,C9,0,1,TL,34,Impact,Meteos,Jensen,Sneaky,Bunny FuFuu,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt
+2016,Summer,Season,FOX,1,0,NV,43,kfo,Hard,Froggen,Keith,Big,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Season,NV,1,0,FOX,41,Seraph,Procxin,Ninja,LOD,Hakuho,kfo,Hard,Froggen,Keith,Big
+2016,Summer,Season,FOX,0,1,NV,41,kfo,Hard,Froggen,Keith,Big,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Season,NRG,0,1,CLG,25,Quas,Santorin,GBM,ohq,KiWiKiD,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Season,CLG,1,0,NRG,26,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Quas,Santorin,GBM,ohq,KiWiKiD
+2016,Summer,Season,IMT,1,0,APX,28,Huni,Reignover,Pobelter,WildTurtle,Adrian,Ray,ShrimP,Keane,Apollo,Xpecial
+2016,Summer,Season,APX,0,1,IMT,28,Ray,ShrimP,Keane,Apollo,Xpecial,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Season,CLG,0,1,TSM,28,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2016,Summer,Season,TSM,1,0,CLG,33,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Season,APX,1,0,P1,35,Ray,ShrimP,Keane,Apollo,Xpecial,zig,Inori,Pirean,Mash,Gate
+2016,Summer,Season,P1,1,0,APX,39,zig,Inori,Pirean,Mash,Gate,Ray,ShrimP,Keane,Apollo,Xpecial
+2016,Summer,Season,APX,0,1,P1,28,Ray,ShrimP,Keane,Apollo,Xpecial,zig,Inori,Pirean,Mash,Gate
+2016,Summer,Season,P1,0,1,TSM,31,zig,Inori,Pirean,Mash,Gate,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2016,Summer,Season,TSM,1,0,P1,25,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,zig,Inori,Pirean,Mash,Gate
+2016,Summer,Season,TL,1,0,NV,42,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Season,NV,0,1,TL,31,Seraph,Procxin,Ninja,LOD,Hakuho,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt
+2016,Summer,Season,FOX,0,1,NRG,42,kfo,Hard,Froggen,Keith,Big,Quas,Santorin,GBM,ohq,KiWiKiD
+2016,Summer,Season,NRG,1,0,FOX,41,Quas,Santorin,GBM,ohq,KiWiKiD,kfo,Hard,Froggen,Keith,Big
+2016,Summer,Season,IMT,1,0,C9,30,Huni,Reignover,Pobelter,WildTurtle,Adrian,Impact,Meteos,Jensen,Sneaky,Bunny FuFuu
+2016,Summer,Season,C9,0,1,IMT,33,Impact,Meteos,Jensen,Sneaky,Smoothie,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Season,TSM,1,0,C9,31,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Impact,Meteos,Jensen,Sneaky,Smoothie
+2016,Summer,Season,C9,0,1,TSM,40,Impact,Meteos,Jensen,Sneaky,Bunny FuFuu,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2016,Summer,Season,NV,0,1,IMT,31,Seraph,Procxin,Ninja,LOD,Hakuho,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Season,IMT,1,0,NV,32,Huni,Reignover,Pobelter,WildTurtle,Adrian,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Season,NRG,0,1,APX,48,Quas,Santorin,GBM,ohq,KiWiKiD,Ray,ShrimP,Keane,Apollo,Xpecial
+2016,Summer,Season,APX,1,0,NRG,38,Ray,ShrimP,Keane,Apollo,Xpecial,Quas,Santorin,GBM,ohq,KiWiKiD
+2016,Summer,Season,TL,0,1,IMT,34,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Season,IMT,0,1,TL,33,Huni,Reignover,Pobelter,WildTurtle,Adrian,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt
+2016,Summer,Season,TL,0,1,IMT,35,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Season,APX,0,1,TSM,32,Ray,ShrimP,Keane,Apollo,Xpecial,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2016,Summer,Season,TSM,1,0,APX,39,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Ray,ShrimP,Keane,Apollo,Xpecial
+2016,Summer,Season,CLG,0,1,P1,41,Darshan,Xmithie,Huhi,Stixxay,aphromoo,zig,Inori,Pirean,Mash,Gate
+2016,Summer,Season,P1,0,1,CLG,28,zig,Inori,Pirean,Mash,Gate,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Season,CLG,1,0,P1,25,Darshan,Xmithie,Huhi,Stixxay,aphromoo,zig,Inori,Pirean,Mash,Gate
+2016,Summer,Season,P1,0,1,FOX,37,zig,Inori,Pirean,Mash,Gate,kfo,Hard,Froggen,Keith,Big
+2016,Summer,Season,FOX,0,1,P1,38,kfo,Hard,Froggen,Keith,Big,zig,Inori,Pirean,Mash,Gate
+2016,Summer,Season,P1,1,0,FOX,36,zig,Inori,Pirean,Mash,Gate,kfo,Hard,Froggen,Keith,Big
+2016,Summer,Season,NV,0,1,CLG,42,Seraph,Procxin,Ninja,LOD,Hakuho,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Season,CLG,1,0,NV,48,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Season,NRG,0,1,C9,33,Quas,Santorin,GBM,ohq,KiWiKiD,Impact,Meteos,Jensen,Sneaky,Smoothie
+2016,Summer,Season,C9,1,0,NRG,46,Impact,Meteos,Jensen,Sneaky,Bunny FuFuu,Quas,Santorin,GBM,ohq,KiWiKiD
+2016,Summer,Season,TL,1,0,FOX,28,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt,kfo,Kez,Froggen,Keith,Big
+2016,Summer,Season,FOX,1,0,TL,36,kfo,Kez,Froggen,Keith,Big,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt
+2016,Summer,Season,TL,1,0,FOX,32,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt,kfo,Kez,Froggen,Keith,Big
+2016,Summer,Season,IMT,0,1,CLG,36,Huni,Reignover,Pobelter,WildTurtle,Adrian,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Season,IMT,1,0,CLG,32,Huni,Reignover,Pobelter,WildTurtle,Adrian,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Season,P1,1,0,NRG,40,zig,Inori,Pirean,Mash,Gate,Quas,Santorin,GBM,ohq,KiWiKiD
+2016,Summer,Season,NRG,1,0,P1,40,Quas,Santorin,GBM,ohq,KiWiKiD,zig,Inori,Pirean,Mash,Gate
+2016,Summer,Season,P1,1,0,NRG,32,zig,Inori,Pirean,Mash,Gate,Quas,Santorin,GBM,ohq,KiWiKiD
+2016,Summer,Season,FOX,0,1,TSM,38,kfo,Kez,Froggen,Keith,Big,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2016,Summer,Season,TSM,1,0,FOX,29,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,kfo,Kez,Froggen,Keith,Big
+2016,Summer,Season,C9,0,1,APX,38,Impact,Meteos,Jensen,Sneaky,Smoothie,Ray,ShrimP,Keane,Apollo,Xpecial
+2016,Summer,Season,APX,0,1,C9,62,Ray,ShrimP,Keane,Apollo,Xpecial,Impact,Meteos,Jensen,Sneaky,Smoothie
+2016,Summer,Season,C9,1,0,APX,31,Impact,Meteos,Jensen,Sneaky,Smoothie,Ray,ShrimP,Keane,Apollo,Xpecial
+2016,Summer,Season,C9,0,1,CLG,28,Impact,Meteos,Jensen,Sneaky,Smoothie,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Season,CLG,0,1,C9,30,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Impact,Meteos,Jensen,Sneaky,Smoothie
+2016,Summer,Season,C9,0,1,CLG,34,Impact,Meteos,Jensen,Sneaky,Smoothie,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Season,TL,0,1,TSM,30,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2016,Summer,Season,TSM,1,0,TL,40,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt
+2016,Summer,Season,NRG,1,0,NV,26,Quas,Santorin,GBM,ohq,KiWiKiD,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Season,NV,0,1,NRG,41,Seraph,Procxin,Ninja,LOD,Hakuho,Quas,Santorin,GBM,ohq,KiWiKiD
+2016,Summer,Season,P1,0,1,TL,38,zig,Inori,Pirean,Mash,Gate,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt
+2016,Summer,Season,TL,1,0,P1,34,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt,zig,Inori,Pirean,Mash,Gate
+2016,Summer,Season,IMT,1,0,FOX,28,Huni,Reignover,Pobelter,WildTurtle,Adrian,kfo,Kez,Froggen,Keith,Big
+2016,Summer,Season,FOX,0,1,IMT,21,kfo,Kez,Froggen,Keith,Big,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Season,NV,0,1,APX,46,Seraph,Procxin,Ninja,LOD,Hakuho,Ray,ShrimP,Keane,Apollo,Xpecial
+2016,Summer,Season,APX,0,1,NV,35,Ray,ShrimP,Keane,Apollo,Xpecial,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Season,NV,1,0,APX,27,Seraph,Procxin,Ninja,LOD,Hakuho,Ray,ShrimP,Keane,Apollo,Xpecial
+2016,Summer,Season,IMT,1,0,NRG,34,Huni,Reignover,Pobelter,WildTurtle,Adrian,Quas,Santorin,GBM,ohq,KiWiKiD
+2016,Summer,Season,NRG,0,1,IMT,35,Quas,Santorin,GBM,ohq,KiWiKiD,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Season,FOX,1,0,APX,57,kfo,Hard,Froggen,Keith,Big,Ray,ShrimP,Keane,Apollo,Xpecial
+2016,Summer,Season,APX,1,0,FOX,36,Ray,ShrimP,Keane,Apollo,Xpecial,kfo,Hard,Froggen,Keith,Big
+2016,Summer,Season,FOX,0,1,APX,37,kfo,Hard,Froggen,Keith,Big,Ray,ShrimP,Keane,Apollo,Xpecial
+2016,Summer,Season,CLG,0,1,TL,36,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt
+2016,Summer,Season,TL,0,1,CLG,32,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Season,CLG,1,0,TL,41,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt
+2016,Summer,Season,TSM,1,0,P1,26,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,zig,Inori,Pirean,Mash,Gate
+2016,Summer,Season,P1,1,0,TSM,28,zig,Inori,Pirean,Mash,Gate,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2016,Summer,Season,TSM,0,1,P1,31,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,zig,Inori,Pirean,Mash,Gate
+2016,Summer,Season,NRG,0,1,TL,29,Quas,Santorin,GBM,ohq,KiWiKiD,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt
+2016,Summer,Season,TL,1,0,NRG,28,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt,Quas,Santorin,GBM,ohq,KiWiKiD
+2016,Summer,Season,C9,1,0,P1,43,Impact,Meteos,Jensen,Sneaky,Smoothie,zig,Inori,Pirean,Mash,Gate
+2016,Summer,Season,P1,0,1,C9,29,zig,Inori,Pirean,Mash,Gate,Impact,Meteos,Jensen,Sneaky,Smoothie
+2016,Summer,Season,NV,0,1,C9,43,Seraph,Procxin,Ninja,LOD,Hakuho,Impact,Meteos,Jensen,Sneaky,Smoothie
+2016,Summer,Season,C9,1,0,NV,35,Impact,Meteos,Jensen,Sneaky,Smoothie,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Season,APX,0,1,IMT,34,Ray,ShrimP,Keane,Apollo,Xpecial,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Season,IMT,1,0,APX,22,Huni,Reignover,Pobelter,WildTurtle,Adrian,Ray,ShrimP,Keane,Apollo,Xpecial
+2016,Summer,Season,TSM,1,0,NV,28,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Season,NV,0,1,TSM,30,Seraph,Procxin,Ninja,LOD,Hakuho,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2016,Summer,Season,FOX,0,1,CLG,37,kfo,Hard,Froggen,Keith,Big,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Season,CLG,1,0,FOX,28,Darshan,Xmithie,Huhi,Stixxay,aphromoo,kfo,Hard,Froggen,Keith,Big
+2016,Summer,Season,IMT,0,1,TSM,39,Huni,Reignover,Pobelter,WildTurtle,Adrian,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2016,Summer,Season,TSM,1,0,IMT,34,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Season,P1,0,1,NV,55,Brandini,Inori,Pirean,Mash,Gate,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Season,NV,0,1,P1,39,Seraph,Procxin,Ninja,LOD,Hakuho,Brandini,Inori,Pirean,Mash,Gate
+2016,Summer,Season,P1,1,0,NV,48,Brandini,Inori,Pirean,Mash,Gate,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Season,CLG,1,0,NRG,28,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Quas,Santorin,GBM,ohq,KiWiKiD
+2016,Summer,Season,NRG,1,0,CLG,36,Quas,Santorin,GBM,ohq,KiWiKiD,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Season,CLG,1,0,NRG,44,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Quas,Santorin,GBM,ohq,KiWiKiD
+2016,Summer,Season,C9,1,0,FOX,43,Impact,Meteos,Jensen,Sneaky,Smoothie,kfo,Hard,Froggen,Keith,Big
+2016,Summer,Season,FOX,0,1,C9,36,kfo,Hard,Froggen,Keith,Big,Impact,Meteos,Jensen,Sneaky,Smoothie
+2016,Summer,Season,TSM,1,0,NRG,28,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Quas,Santorin,GBM,ohq,KiWiKiD
+2016,Summer,Season,NRG,1,0,TSM,27,Quas,Santorin,GBM,ohq,KiWiKiD,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2016,Summer,Season,TSM,1,0,NRG,30,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Quas,Santorin,GBM,ohq,KiWiKiD
+2016,Summer,Season,TL,0,1,C9,31,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt,Impact,Meteos,Jensen,Sneaky,Smoothie
+2016,Summer,Season,C9,1,0,TL,36,Impact,Meteos,Jensen,Sneaky,Smoothie,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt
+2016,Summer,Season,APX,1,0,TL,36,Ray,ShrimP,Keane,Apollo,Xpecial,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt
+2016,Summer,Season,TL,1,0,APX,33,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt,Ray,ShrimP,Keane,Apollo,Xpecial
+2016,Summer,Season,APX,1,0,TL,38,Ray,ShrimP,Keane,Apollo,Xpecial,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt
+2016,Summer,Season,P1,1,0,IMT,39,Brandini,Inori,Pirean,Mash,Gate,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Season,IMT,1,0,P1,26,Huni,Reignover,Pobelter,WildTurtle,Adrian,Brandini,Inori,Pirean,Mash,Gate
+2016,Summer,Season,P1,0,1,IMT,26,Brandini,Inori,Pirean,Mash,Gate,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Season,CLG,1,0,APX,52,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Ray,ShrimP,Keane,Apollo,Xpecial
+2016,Summer,Season,APX,1,0,CLG,37,Ray,ShrimP,Keane,Apollo,Xpecial,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Season,CLG,0,1,APX,41,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Ray,ShrimP,Keane,Apollo,Xpecial
+2016,Summer,Season,NV,1,0,FOX,34,Seraph,Procxin,Ninja,LOD,Hakuho,kfo,Hard,Froggen,Keith,Big
+2016,Summer,Season,FOX,0,1,NV,31,kfo,Hard,Froggen,Keith,Big,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Spring,Playoffs,C9,1,0,TSM,26,Balls,Rush,Jensen,Sneaky,Hai,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar
+2016,Spring,Playoffs,TSM,1,0,C9,35,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar,Balls,Rush,Jensen,Sneaky,Hai
+2016,Spring,Playoffs,C9,0,1,TSM,31,Balls,Rush,Jensen,Sneaky,Hai,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar
+2016,Spring,Playoffs,TSM,1,0,C9,30,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar,Balls,Rush,Jensen,Sneaky,Hai
+2016,Spring,Playoffs,TL,1,0,NRG,29,Lourlo,Dardoch,Fenix,Piglet,Matt,Impact,Moon,GBM,Altec,KonKwon
+2016,Spring,Playoffs,NRG,0,1,TL,32,Impact,Moon,GBM,Altec,KonKwon,Lourlo,Dardoch,Fenix,Piglet,Matt
+2016,Spring,Playoffs,TL,1,0,NRG,38,Lourlo,Dardoch,Fenix,Piglet,Matt,Impact,Moon,GBM,Altec,KonKwon
+2016,Spring,Playoffs,CLG,0,1,TL,35,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Lourlo,Dardoch,Fenix,Piglet,Matt
+2016,Spring,Playoffs,TL,0,1,CLG,33,Lourlo,Dardoch,Fenix,Piglet,Matt,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Spring,Playoffs,CLG,1,0,TL,31,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Lourlo,Dardoch,Fenix,Piglet,Matt
+2016,Spring,Playoffs,TL,1,0,CLG,25,Lourlo,Dardoch,Fenix,Piglet,Matt,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Spring,Playoffs,CLG,1,0,TL,44,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Lourlo,Dardoch,Fenix,Piglet,Matt
+2016,Spring,Playoffs,IMT,0,1,TSM,44,Huni,Reignover,Pobelter,WildTurtle,Adrian,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar
+2016,Spring,Playoffs,TSM,1,0,IMT,30,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Spring,Playoffs,IMT,0,1,TSM,44,Huni,Reignover,Pobelter,WildTurtle,Adrian,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar
+2016,Spring,Playoffs,IMT,1,0,TL,33,Huni,Reignover,Pobelter,WildTurtle,Adrian,Lourlo,Dardoch,Fenix,Piglet,Matt
+2016,Spring,Playoffs,TL,0,1,IMT,29,Lourlo,Dardoch,Fenix,Piglet,Matt,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Spring,Playoffs,IMT,1,0,TL,31,Huni,Reignover,Pobelter,WildTurtle,Adrian,Lourlo,Dardoch,Fenix,Piglet,Matt
+2016,Spring,Playoffs,CLG,1,0,TSM,44,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar
+2016,Spring,Playoffs,TSM,1,0,CLG,29,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Spring,Playoffs,CLG,1,0,TSM,42,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar
+2016,Spring,Playoffs,TSM,1,0,CLG,35,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Spring,Playoffs,CLG,1,0,TSM,47,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Hauntzer,Svenskeren,Bjergsen,Doublelift,Yellowstar
+2016,Summer,Playoffs,C9,0,1,NV,48,Impact,Meteos,Jensen,Sneaky,Smoothie,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Playoffs,C9,1,0,NV,39,Impact,Meteos,Jensen,Sneaky,Smoothie,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Playoffs,C9,1,0,NV,26,Impact,Meteos,Jensen,Sneaky,Smoothie,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Playoffs,NV,0,1,C9,27,Seraph,Procxin,Ninja,LOD,Hakuho,Impact,Meteos,Jensen,Sneaky,Smoothie
+2016,Summer,Playoffs,CLG,1,0,TL,35,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt
+2016,Summer,Playoffs,CLG,1,0,TL,40,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Lourlo,Dardoch,Fenix,Fabbbyyy,Matt
+2016,Summer,Playoffs,CLG,0,1,TL,34,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Lourlo,Dardoch,Fenix,Jynthe,Matt
+2016,Summer,Playoffs,CLG,1,0,TL,27,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Lourlo,Dardoch,Fenix,Jynthe,Matt
+2016,Summer,Playoffs,IMT,1,0,C9,34,Huni,Reignover,Pobelter,WildTurtle,Adrian,Impact,Meteos,Jensen,Sneaky,Smoothie
+2016,Summer,Playoffs,C9,1,0,IMT,40,Impact,Meteos,Jensen,Sneaky,Smoothie,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Playoffs,IMT,0,1,C9,47,Huni,Reignover,Pobelter,WildTurtle,Adrian,Impact,Meteos,Jensen,Sneaky,Smoothie
+2016,Summer,Playoffs,C9,0,1,IMT,38,Impact,Meteos,Jensen,Sneaky,Smoothie,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Playoffs,IMT,0,1,C9,48,Huni,Reignover,Pobelter,WildTurtle,Adrian,Impact,Meteos,Jensen,Sneaky,Smoothie
+2016,Summer,Playoffs,TSM,1,0,CLG,34,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Playoffs,CLG,0,1,TSM,45,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2016,Summer,Playoffs,TSM,1,0,CLG,44,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Playoffs,IMT,0,1,CLG,43,Huni,Reignover,Pobelter,WildTurtle,Adrian,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Playoffs,CLG,0,1,IMT,34,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Playoffs,CLG,0,1,IMT,51,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Playoffs,CLG,1,0,IMT,52,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Playoffs,IMT,1,0,CLG,33,Huni,Reignover,Pobelter,WildTurtle,Adrian,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2016,Summer,Playoffs,TSM,0,1,C9,40,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Impact,Meteos,Jensen,Sneaky,Smoothie
+2016,Summer,Playoffs,C9,0,1,TSM,38,Impact,Meteos,Jensen,Sneaky,Smoothie,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2016,Summer,Playoffs,TSM,1,0,C9,30,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Impact,Meteos,Jensen,Sneaky,Smoothie
+2016,Summer,Playoffs,C9,0,1,TSM,44,Impact,Meteos,Jensen,Sneaky,Smoothie,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2016,Summer,Regional,TL,0,1,NV,41,Lourlo,Arcsecond,Fenix,Jynthe,Matt,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Regional,TL,0,1,NV,36,Lourlo,Arcsecond,Fenix,Jynthe,Matt,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Regional,NV,1,0,TL,27,Seraph,Procxin,Ninja,LOD,Hakuho,Lourlo,Arcsecond,Fenix,Jynthe,Matt
+2016,Summer,Regional,C9,1,0,NV,33,Impact,Meteos,Jensen,Sneaky,Smoothie,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Regional,NV,0,1,C9,38,Seraph,Procxin,Ninja,LOD,Hakuho,Impact,Meteos,Jensen,Sneaky,Smoothie
+2016,Summer,Regional,C9,1,0,NV,39,Impact,Meteos,Jensen,Sneaky,Smoothie,Seraph,Procxin,Ninja,LOD,Hakuho
+2016,Summer,Regional,IMT,0,1,C9,32,Huni,Reignover,Pobelter,WildTurtle,Adrian,Impact,Meteos,Jensen,Sneaky,Smoothie
+2016,Summer,Regional,C9,1,0,IMT,32,Impact,Meteos,Jensen,Sneaky,Smoothie,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2016,Summer,Regional,IMT,1,0,C9,34,Huni,Reignover,Pobelter,WildTurtle,Adrian,Impact,Meteos,Jensen,Sneaky,Smoothie
+2016,Summer,Regional,C9,1,0,IMT,33,Impact,Meteos,Jensen,Sneaky,Smoothie,Huni,Reignover,Pobelter,WildTurtle,Adrian
+2017,Spring,Season,TSM,0,1,C9,41,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Season,C9,1,0,TSM,37,Impact,Contractz,Jensen,Sneaky,Smoothie,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,FOX,0,1,P1,39,Looper,Akaadian,Froggen,Keith,Gate,zig,Inori,Ryu,Arrow,Adrian
+2017,Spring,Season,P1,1,0,FOX,25,zig,Inori,Ryu,Arrow,Adrian,Looper,Akaadian,Froggen,Keith,Gate
+2017,Spring,Season,CLG,0,1,TL,35,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Lourlo,Reignover,Goldenglue,Piglet,Matt
+2017,Spring,Season,TL,1,0,CLG,44,Lourlo,Reignover,Goldenglue,Piglet,Matt,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2017,Spring,Season,NV,0,1,FLY,31,Seraph,Ninja,AlexIch,Apollo,Hakuho,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Season,FLY,1,0,NV,37,Balls,Moon,Hai,Altec,LemonNation,Seraph,Ninja,AlexIch,Apollo,Hakuho
+2017,Spring,Season,FOX,1,0,IMT,49,Looper,Akaadian,Froggen,Keith,Gate,Flame,Dardoch,Pobelter,Cody Sun,Olleh
+2017,Spring,Season,IMT,1,0,FOX,44,Flame,Dardoch,Pobelter,Cody Sun,Olleh,Looper,Akaadian,Froggen,Keith,Gate
+2017,Spring,Season,FOX,0,1,IMT,49,Looper,Akaadian,Froggen,Keith,Gate,Flame,Dardoch,Pobelter,Cody Sun,Olleh
+2017,Spring,Season,DIG,1,0,P1,39,Ssumday,Chaser,Keane,LOD,Xpecial,zig,Inori,Ryu,Arrow,Adrian
+2017,Spring,Season,P1,1,0,DIG,53,zig,Inori,Ryu,Arrow,Adrian,Ssumday,Chaser,Keane,LOD,Xpecial
+2017,Spring,Season,DIG,1,0,P1,37,Ssumday,Chaser,Keane,LOD,Xpecial,zig,Inori,Ryu,Arrow,Adrian
+2017,Spring,Season,TSM,1,0,IMT,53,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,Flame,Dardoch,Pobelter,Cody Sun,Olleh
+2017,Spring,Season,IMT,1,0,TSM,51,Flame,Dardoch,Pobelter,Cody Sun,Olleh,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,TSM,1,0,IMT,39,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,Flame,Dardoch,Pobelter,Cody Sun,Olleh
+2017,Spring,Season,NV,0,1,CLG,45,Seraph,Ninja,AlexIch,Apollo,Hakuho,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2017,Spring,Season,CLG,1,0,NV,52,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Seraph,Ninja,AlexIch,Apollo,Hakuho
+2017,Spring,Season,DIG,0,1,C9,42,Ssumday,Chaser,Keane,LOD,Xpecial,Ray,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Season,C9,0,1,DIG,34,Ray,Contractz,Jensen,Sneaky,Smoothie,Ssumday,Chaser,Keane,LOD,Xpecial
+2017,Spring,Season,DIG,0,1,C9,39,Ssumday,Chaser,Keane,LOD,Xpecial,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Season,TL,1,0,FLY,45,Lourlo,Reignover,Goldenglue,Piglet,Matt,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Season,FLY,1,0,TL,36,Balls,Moon,Hai,Altec,LemonNation,Lourlo,Reignover,Goldenglue,Piglet,Matt
+2017,Spring,Season,TL,0,1,FLY,26,Lourlo,Reignover,Goldenglue,Piglet,Matt,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Season,FLY,1,0,CLG,43,Balls,Moon,Hai,Altec,LemonNation,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2017,Spring,Season,CLG,0,1,FLY,33,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Season,TSM,0,1,DIG,49,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,Ssumday,Chaser,Keane,LOD,Xpecial
+2017,Spring,Season,DIG,0,1,TSM,40,Ssumday,Chaser,Keane,LOD,Xpecial,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,TSM,1,0,DIG,30,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,Ssumday,Chaser,Keane,LOD,Xpecial
+2017,Spring,Season,IMT,0,1,C9,28,Flame,Dardoch,Pobelter,Cody Sun,Olleh,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Season,C9,1,0,IMT,40,Impact,Contractz,Jensen,Sneaky,Smoothie,Flame,Dardoch,Pobelter,Cody Sun,Olleh
+2017,Spring,Season,P1,1,0,NV,42,zig,Inori,Ryu,Arrow,Adrian,Seraph,LirA,Ninja,Apollo,Hakuho
+2017,Spring,Season,NV,0,1,P1,28,Seraph,LirA,Ninja,Apollo,Hakuho,zig,Inori,Ryu,Arrow,Adrian
+2017,Spring,Season,TSM,1,0,TL,42,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,Lourlo,Reignover,Goldenglue,Piglet,Matt
+2017,Spring,Season,TL,1,0,TSM,43,Lourlo,Reignover,Goldenglue,Piglet,Matt,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,TSM,1,0,TL,46,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,Lourlo,Reignover,Goldenglue,Piglet,Matt
+2017,Spring,Season,DIG,1,0,FOX,31,Ssumday,Chaser,Keane,LOD,Xpecial,Looper,Akaadian,Froggen,Keith,Gate
+2017,Spring,Season,FOX,1,0,DIG,50,Looper,Akaadian,Froggen,Keith,Gate,Ssumday,Chaser,Keane,LOD,Xpecial
+2017,Spring,Season,DIG,0,1,FOX,25,Ssumday,Chaser,Keane,LOD,Xpecial,Looper,Akaadian,Froggen,Keith,Gate
+2017,Spring,Season,P1,1,0,TL,32,zig,Inori,Ryu,Arrow,Adrian,Lourlo,Reignover,Goldenglue,Piglet,Matt
+2017,Spring,Season,TL,0,1,P1,32,Lourlo,Reignover,Goldenglue,Piglet,Matt,zig,Inori,Ryu,Arrow,Adrian
+2017,Spring,Season,FOX,1,0,FLY,30,Looper,Akaadian,Froggen,Keith,Gate,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Season,FLY,1,0,FOX,31,Balls,Moon,Hai,Altec,LemonNation,Looper,Akaadian,Froggen,Keith,Gate
+2017,Spring,Season,FOX,1,0,FLY,41,Looper,Akaadian,Froggen,Keith,Gate,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Season,NV,1,0,IMT,39,Seraph,LirA,Ninja,Apollo,Hakuho,Flame,Dardoch,Pobelter,Cody Sun,Olleh
+2017,Spring,Season,IMT,1,0,NV,34,Flame,Dardoch,Pobelter,Cody Sun,Olleh,Seraph,LirA,Ninja,Apollo,Hakuho
+2017,Spring,Season,NV,0,1,IMT,38,Seraph,LirA,Ninja,Apollo,Hakuho,Flame,Dardoch,Pobelter,Cody Sun,Olleh
+2017,Spring,Season,C9,1,0,CLG,37,Impact,Contractz,Jensen,Sneaky,Smoothie,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2017,Spring,Season,CLG,1,0,C9,33,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Season,C9,1,0,CLG,50,Impact,Contractz,Jensen,Sneaky,Smoothie,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2017,Spring,Season,IMT,0,1,P1,55,Flame,Dardoch,Pobelter,Cody Sun,Olleh,zig,Inori,Ryu,Arrow,Adrian
+2017,Spring,Season,P1,1,0,IMT,43,zig,Inori,Ryu,Arrow,Adrian,Flame,Dardoch,Pobelter,Cody Sun,Olleh
+2017,Spring,Season,NV,1,0,TL,39,Seraph,LirA,Ninja,Apollo,Hakuho,Lourlo,Reignover,Goldenglue,Piglet,Matt
+2017,Spring,Season,TL,0,1,NV,34,Lourlo,Reignover,Goldenglue,Piglet,Matt,Seraph,LirA,Ninja,Apollo,Hakuho
+2017,Spring,Season,CLG,1,0,TSM,28,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,TSM,1,0,CLG,26,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2017,Spring,Season,CLG,0,1,TSM,33,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,FLY,1,0,DIG,32,Balls,Moon,Hai,Altec,LemonNation,Ssumday,Chaser,Keane,LOD,Xpecial
+2017,Spring,Season,DIG,0,1,FLY,34,Ssumday,Chaser,Keane,LOD,Xpecial,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Season,TL,0,1,FOX,36,Lourlo,Reignover,Goldenglue,Piglet,Matt,Looper,Akaadian,Froggen,Keith,Gate
+2017,Spring,Season,FOX,0,1,TL,59,Looper,Akaadian,Froggen,Keith,Gate,Lourlo,Reignover,Goldenglue,Piglet,Matt
+2017,Spring,Season,TL,1,0,FOX,40,Lourlo,Reignover,Goldenglue,Piglet,Matt,Looper,Akaadian,Froggen,Keith,Gate
+2017,Spring,Season,C9,1,0,NV,34,Impact,Contractz,Jensen,Sneaky,Smoothie,Seraph,LirA,Ninja,Apollo,Hakuho
+2017,Spring,Season,NV,0,1,C9,45,Seraph,LirA,Ninja,Apollo,Hakuho,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Season,P1,1,0,TSM,33,zig,Inori,Ryu,Arrow,Adrian,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,TSM,1,0,P1,49,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,zig,Inori,Ryu,Arrow,Adrian
+2017,Spring,Season,P1,0,1,TSM,44,zig,Inori,Ryu,Arrow,Adrian,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,DIG,0,1,CLG,51,Ssumday,Chaser,Keane,LOD,Xpecial,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2017,Spring,Season,CLG,1,0,DIG,41,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Ssumday,Chaser,Keane,LOD,Xpecial
+2017,Spring,Season,IMT,0,1,FLY,35,Flame,Dardoch,Pobelter,Cody Sun,Olleh,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Season,FLY,1,0,IMT,30,Balls,Moon,Hai,Altec,LemonNation,Flame,Dardoch,Pobelter,Cody Sun,Olleh
+2017,Spring,Season,C9,1,0,FOX,46,Impact,Contractz,Jensen,Sneaky,Smoothie,Looper,Akaadian,Froggen,Keith,Gate
+2017,Spring,Season,FOX,0,1,C9,30,Looper,Akaadian,Froggen,Keith,Gate,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Season,C9,1,0,TL,45,Ray,Contractz,Jensen,Sneaky,Smoothie,Lourlo,Reignover,Goldenglue,Piglet,Matt
+2017,Spring,Season,TL,1,0,C9,32,Lourlo,Reignover,Goldenglue,Piglet,Matt,Ray,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Season,C9,1,0,TL,41,Impact,Contractz,Jensen,Sneaky,Smoothie,Lourlo,Reignover,Goldenglue,Piglet,Matt
+2017,Spring,Season,IMT,1,0,DIG,51,Flame,Dardoch,Pobelter,Cody Sun,Olleh,Ssumday,Chaser,Keane,LOD,Xpecial
+2017,Spring,Season,DIG,0,1,IMT,35,Ssumday,Chaser,Keane,LOD,Xpecial,Flame,Dardoch,Pobelter,Cody Sun,Olleh
+2017,Spring,Season,CLG,0,1,FOX,40,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Looper,Akaadian,Froggen,Keith,Gate
+2017,Spring,Season,FOX,1,0,CLG,31,Looper,Akaadian,Froggen,Keith,Gate,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2017,Spring,Season,P1,0,1,FLY,57,zig,Inori,Ryu,Arrow,Adrian,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Season,FLY,1,0,P1,28,Balls,Moon,Hai,Altec,LemonNation,zig,Inori,Ryu,Arrow,Adrian
+2017,Spring,Season,TSM,1,0,NV,25,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,Seraph,LirA,Ninja,Apollo,Hakuho
+2017,Spring,Season,NV,0,1,TSM,40,Seraph,LirA,Ninja,Apollo,Hakuho,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,TL,0,1,IMT,30,Lourlo,Reignover,Goldenglue,Piglet,Matt,Flame,Dardoch,Pobelter,Cody Sun,Olleh
+2017,Spring,Season,IMT,1,0,TL,43,Flame,Dardoch,Pobelter,Cody Sun,Olleh,Lourlo,Reignover,Goldenglue,Piglet,Matt
+2017,Spring,Season,CLG,1,0,P1,46,Darshan,Xmithie,Huhi,Stixxay,aphromoo,zig,Inori,Ryu,Arrow,Adrian
+2017,Spring,Season,P1,1,0,CLG,36,zig,Inori,Ryu,Arrow,Adrian,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2017,Spring,Season,CLG,1,0,P1,45,Darshan,Xmithie,Huhi,Stixxay,aphromoo,zig,Inori,Ryu,Arrow,Adrian
+2017,Spring,Season,FOX,1,0,TSM,31,Looper,Akaadian,Froggen,Keith,Gate,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,TSM,0,1,FOX,37,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,Looper,Akaadian,Froggen,Keith,Gate
+2017,Spring,Season,FLY,0,1,C9,35,Balls,Moon,Hai,Altec,LemonNation,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Season,C9,0,1,FLY,37,Impact,Contractz,Jensen,Sneaky,Smoothie,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Season,FLY,0,1,C9,46,Balls,Moon,Hai,Altec,LemonNation,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Season,DIG,1,0,NV,34,Ssumday,Chaser,Keane,LOD,Stunt,Seraph,LirA,Ninja,Apollo,Hakuho
+2017,Spring,Season,NV,0,1,DIG,43,Seraph,LirA,Ninja,Apollo,Hakuho,Ssumday,Chaser,Keane,LOD,Stunt
+2017,Spring,Season,DIG,1,0,FLY,31,Ssumday,Chaser,Keane,LOD,Xpecial,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Season,FLY,0,1,DIG,35,Balls,Moon,Hai,Altec,LemonNation,Ssumday,Chaser,Keane,LOD,Xpecial
+2017,Spring,Season,NV,0,1,P1,57,Seraph,LirA,Ninja,Apollo,Hakuho,zig,Meteos,Ryu,Arrow,Adrian
+2017,Spring,Season,P1,1,0,NV,30,zig,Meteos,Ryu,Arrow,Adrian,Seraph,LirA,Ninja,Apollo,Hakuho
+2017,Spring,Season,CLG,1,0,IMT,27,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Flame,Dardoch,Pobelter,Cody Sun,Olleh
+2017,Spring,Season,IMT,1,0,CLG,50,Flame,Dardoch,Pobelter,Cody Sun,Olleh,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2017,Spring,Season,CLG,1,0,IMT,35,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Flame,Dardoch,Pobelter,Cody Sun,Olleh
+2017,Spring,Season,TL,1,0,DIG,42,Lourlo,Reignover,Goldenglue,Piglet,Matt,Ssumday,Chaser,Keane,LOD,Stunt
+2017,Spring,Season,DIG,1,0,TL,36,Ssumday,Chaser,Keane,LOD,Xpecial,Lourlo,Reignover,Goldenglue,Piglet,Matt
+2017,Spring,Season,TL,0,1,DIG,32,Lourlo,Reignover,Goldenglue,Piglet,Matt,Ssumday,Chaser,Keane,LOD,Xpecial
+2017,Spring,Season,C9,0,1,TSM,33,Impact,Contractz,Jensen,Sneaky,Smoothie,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,TSM,0,1,C9,41,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Season,C9,0,1,TSM,40,Impact,Contractz,Jensen,Sneaky,Smoothie,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,NV,1,0,FOX,35,Seraph,LirA,Ninja,Apollo,Hakuho,Looper,Akaadian,Froggen,Keith,Gate
+2017,Spring,Season,FOX,0,1,NV,41,Looper,Akaadian,Froggen,Keith,Gate,Seraph,LirA,Ninja,Apollo,Hakuho
+2017,Spring,Season,FLY,0,1,TSM,31,Balls,Moon,Hai,Altec,LemonNation,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,TSM,0,1,FLY,43,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Season,FLY,0,1,TSM,35,Balls,Moon,Hai,Altec,LemonNation,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,IMT,1,0,FOX,40,Flame,Dardoch,Pobelter,Cody Sun,Olleh,Looper,Akaadian,Froggen,Keith,Gate
+2017,Spring,Season,FOX,0,1,IMT,28,Looper,Akaadian,Froggen,Keith,Gate,Flame,Dardoch,Pobelter,Cody Sun,Olleh
+2017,Spring,Season,P1,1,0,C9,44,zig,Meteos,Ryu,Arrow,Adrian,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Season,C9,0,1,P1,28,Ray,Contractz,Jensen,Sneaky,Smoothie,zig,Meteos,Ryu,Arrow,Adrian
+2017,Spring,Season,TL,1,0,CLG,35,Lourlo,Reignover,Goldenglue,Piglet,Matt,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2017,Spring,Season,CLG,1,0,TL,30,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Lourlo,Reignover,Goldenglue,Piglet,Matt
+2017,Spring,Season,TL,0,1,CLG,29,Lourlo,Reignover,Goldenglue,Piglet,Matt,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2017,Spring,Season,IMT,1,0,TL,40,Flame,Dardoch,Pobelter,Cody Sun,Olleh,Lourlo,Reignover,Piglet,Youngbin,Matt
+2017,Spring,Season,TL,1,0,IMT,35,Lourlo,Reignover,Piglet,Youngbin,Matt,Flame,Dardoch,Pobelter,Cody Sun,Olleh
+2017,Spring,Season,IMT,0,1,TL,32,Flame,Dardoch,Pobelter,Cody Sun,Olleh,Lourlo,Reignover,Piglet,Youngbin,Matt
+2017,Spring,Season,P1,1,0,CLG,25,zig,Meteos,Ryu,Arrow,Adrian,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2017,Spring,Season,CLG,1,0,P1,27,Darshan,Xmithie,Huhi,Stixxay,aphromoo,zig,Meteos,Ryu,Arrow,Adrian
+2017,Spring,Season,P1,0,1,CLG,39,zig,Meteos,Ryu,Arrow,Adrian,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2017,Spring,Season,FOX,0,1,C9,47,Looper,Akaadian,Froggen,Keith,Gate,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Season,C9,1,0,FOX,27,Impact,Contractz,Jensen,Sneaky,Smoothie,Looper,Akaadian,Froggen,Keith,Gate
+2017,Spring,Season,FLY,1,0,NV,38,Balls,Moon,Hai,Altec,LemonNation,Seraph,LirA,Ninja,Apollo,Hakuho
+2017,Spring,Season,NV,1,0,FLY,35,Seraph,LirA,Ninja,Apollo,Hakuho,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Season,FLY,1,0,NV,31,Balls,Moon,Hai,Altec,LemonNation,Seraph,LirA,Ninja,Apollo,Hakuho
+2017,Spring,Season,TSM,1,0,CLG,47,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2017,Spring,Season,CLG,0,1,TSM,27,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,P1,1,0,DIG,35,zig,Meteos,Ryu,Arrow,Adrian,Ssumday,Chaser,Keane,LOD,Xpecial
+2017,Spring,Season,DIG,1,0,P1,27,Ssumday,Chaser,Keane,LOD,Xpecial,zig,Meteos,Ryu,Arrow,Adrian
+2017,Spring,Season,P1,1,0,DIG,29,zig,Meteos,Ryu,Arrow,Adrian,Ssumday,Chaser,Keane,LOD,Xpecial
+2017,Spring,Season,DIG,0,1,TSM,43,Ssumday,Chaser,Keane,LOD,Xpecial,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,TSM,1,0,DIG,28,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,Ssumday,Chaser,Keane,LOD,Xpecial
+2017,Spring,Season,FOX,1,0,TL,34,Looper,Akaadian,Froggen,Keith,Gate,Lourlo,Reignover,Piglet,Youngbin,Matt
+2017,Spring,Season,TL,1,0,FOX,50,Lourlo,Reignover,Piglet,Youngbin,Matt,Looper,Akaadian,Froggen,Keith,Gate
+2017,Spring,Season,FOX,1,0,TL,29,Looper,Akaadian,Froggen,Keith,Gate,Lourlo,Reignover,Piglet,Youngbin,Matt
+2017,Spring,Season,C9,1,0,FLY,40,Impact,Contractz,Jensen,Sneaky,Smoothie,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Season,FLY,0,1,C9,47,Balls,Moon,Hai,Altec,LemonNation,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Season,IMT,1,0,NV,41,Flame,Dardoch,Pobelter,Cody Sun,Olleh,Seraph,LirA,Ninja,Apollo,Hakuho
+2017,Spring,Season,NV,1,0,IMT,47,Seraph,LirA,Ninja,Apollo,Hakuho,Flame,Dardoch,Pobelter,Cody Sun,Olleh
+2017,Spring,Season,IMT,0,1,NV,36,Flame,Dardoch,Pobelter,Cody Sun,Olleh,Seraph,LirA,Ninja,Apollo,Hakuho
+2017,Spring,Season,TL,0,1,C9,36,Lourlo,Reignover,Piglet,Doublelift,Matt,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Season,C9,1,0,TL,35,Ray,Contractz,Jensen,Sneaky,Smoothie,Lourlo,Reignover,Piglet,Doublelift,Matt
+2017,Spring,Season,FLY,0,1,P1,34,Balls,Moon,Hai,Altec,LemonNation,zig,Meteos,Ryu,Arrow,Stunt
+2017,Spring,Season,P1,1,0,FLY,47,zig,Meteos,Ryu,Arrow,Stunt,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Season,CLG,0,1,DIG,29,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Ssumday,Chaser,Keane,LOD,Xpecial
+2017,Spring,Season,DIG,1,0,CLG,40,Ssumday,Chaser,Keane,LOD,Xpecial,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2017,Spring,Season,NV,1,0,TSM,33,Seraph,LirA,Ninja,Apollo,Hakuho,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,TSM,1,0,NV,28,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,Seraph,LirA,Ninja,Apollo,Hakuho
+2017,Spring,Season,NV,0,1,TSM,39,Seraph,LirA,Ninja,Apollo,Hakuho,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,FLY,0,1,IMT,34,Balls,Moon,Hai,Altec,LemonNation,Flame,Dardoch,Pobelter,Cody Sun,Olleh
+2017,Spring,Season,IMT,1,0,FLY,26,Flame,Dardoch,Pobelter,Cody Sun,Olleh,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Season,P1,1,0,FOX,28,zig,Meteos,Ryu,Arrow,Stunt,Looper,Akaadian,Froggen,Keith,Gate
+2017,Spring,Season,FOX,0,1,P1,42,Looper,Akaadian,Froggen,Keith,Gate,zig,Inori,Ryu,Arrow,Stunt
+2017,Spring,Season,CLG,1,0,C9,49,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Season,C9,1,0,CLG,36,Ray,Contractz,Jensen,Sneaky,Smoothie,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2017,Spring,Season,CLG,1,0,C9,41,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Ray,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Season,FOX,1,0,DIG,57,Looper,Akaadian,Froggen,Keith,Gate,Ssumday,Chaser,Keane,LOD,Xpecial
+2017,Spring,Season,DIG,1,0,FOX,40,Ssumday,Chaser,Keane,LOD,Xpecial,Looper,Akaadian,Froggen,Keith,Gate
+2017,Spring,Season,FOX,0,1,DIG,38,Looper,Akaadian,Froggen,Keith,Gate,Ssumday,Chaser,Keane,LOD,Xpecial
+2017,Spring,Season,IMT,1,0,TSM,30,Flame,Dardoch,Pobelter,Cody Sun,Olleh,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,TSM,1,0,IMT,37,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,Flame,Dardoch,Pobelter,Cody Sun,Olleh
+2017,Spring,Season,IMT,0,1,TSM,39,Flame,Dardoch,Pobelter,Cody Sun,Olleh,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,TL,1,0,NV,39,Lourlo,Reignover,Piglet,Doublelift,Matt,Seraph,LirA,Ninja,Apollo,Hakuho
+2017,Spring,Season,NV,1,0,TL,27,Seraph,LirA,Ninja,Apollo,Hakuho,Lourlo,Reignover,Piglet,Doublelift,Matt
+2017,Spring,Season,TL,1,0,NV,41,Lourlo,Reignover,Piglet,Doublelift,Matt,Seraph,LirA,Ninja,Apollo,Hakuho
+2017,Spring,Season,DIG,1,0,TL,28,Ssumday,Chaser,Keane,LOD,Xpecial,Lourlo,Reignover,Piglet,Doublelift,Adrian
+2017,Spring,Season,TL,0,1,DIG,34,Lourlo,Reignover,Piglet,Doublelift,Adrian,Ssumday,Chaser,Keane,LOD,Xpecial
+2017,Spring,Season,FOX,0,1,CLG,43,Looper,Akaadian,Froggen,Keith,Gate,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2017,Spring,Season,CLG,1,0,FOX,39,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Looper,Akaadian,Froggen,Keith,Gate
+2017,Spring,Season,C9,0,1,IMT,34,Impact,Contractz,Jensen,Sneaky,Smoothie,Flame,Dardoch,Pobelter,Cody Sun,Olleh
+2017,Spring,Season,IMT,0,1,C9,34,Flame,Dardoch,Pobelter,Cody Sun,Olleh,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Season,C9,0,1,IMT,26,Impact,Contractz,Jensen,Sneaky,Smoothie,Flame,Dardoch,Pobelter,Cody Sun,Olleh
+2017,Spring,Season,NV,0,1,DIG,39,Seraph,LirA,Ninja,Apollo,Hakuho,Ssumday,Chaser,Keane,LOD,Xpecial
+2017,Spring,Season,DIG,0,1,NV,44,Ssumday,Chaser,Keane,LOD,Xpecial,Seraph,LirA,Ninja,Apollo,Hakuho
+2017,Spring,Season,NV,0,1,DIG,47,Seraph,LirA,Ninja,Apollo,Hakuho,Ssumday,Chaser,Keane,LOD,Xpecial
+2017,Spring,Season,TSM,0,1,FLY,27,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Season,FLY,0,1,TSM,38,Balls,Moon,Hai,Altec,LemonNation,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,TSM,1,0,FLY,26,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Season,TL,0,1,P1,35,Lourlo,Reignover,Piglet,Doublelift,Adrian,zig,Meteos,Ryu,Arrow,Stunt
+2017,Spring,Season,P1,1,0,TL,39,zig,Meteos,Ryu,Arrow,Stunt,Lourlo,Reignover,Piglet,Doublelift,Matt
+2017,Spring,Season,TSM,1,0,FOX,29,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,Looper,Akaadian,Froggen,Keith,Gate
+2017,Spring,Season,FOX,0,1,TSM,30,Looper,Akaadian,Froggen,Keith,Gate,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,P1,1,0,IMT,26,zig,Meteos,Ryu,Arrow,Stunt,Flame,Dardoch,Pobelter,Cody Sun,Olleh
+2017,Spring,Season,IMT,0,1,P1,39,Flame,Dardoch,Pobelter,Cody Sun,Olleh,zig,Meteos,Ryu,Arrow,Stunt
+2017,Spring,Season,CLG,1,0,FLY,33,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Season,FLY,0,1,CLG,38,Balls,Moon,Hai,Altec,LemonNation,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2017,Spring,Season,NV,1,0,C9,38,Seraph,LirA,Ninja,Apollo,Hakuho,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Season,C9,1,0,NV,43,Impact,Contractz,Jensen,Sneaky,Smoothie,Seraph,LirA,Ninja,Apollo,Hakuho
+2017,Spring,Season,NV,0,1,C9,55,Seraph,LirA,Ninja,Apollo,Hakuho,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Season,C9,1,0,DIG,46,Ray,Contractz,Jensen,Sneaky,Smoothie,Ssumday,Chaser,Keane,LOD,Xpecial
+2017,Spring,Season,DIG,0,1,C9,41,Ssumday,Chaser,Keane,LOD,Xpecial,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Season,FLY,1,0,FOX,40,Balls,Moon,Hai,Altec,LemonNation,Looper,Akaadian,Froggen,Keith,Gate
+2017,Spring,Season,FOX,0,1,FLY,29,Looper,Akaadian,Froggen,Keith,Gate,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Season,IMT,1,0,CLG,36,Flame,Dardoch,Pobelter,Cody Sun,Olleh,Darshan,Xmithie,Huhi,aphromoo,Joey
+2017,Spring,Season,CLG,0,1,IMT,28,Darshan,Xmithie,Huhi,aphromoo,Joey,Flame,Dardoch,Pobelter,Cody Sun,Olleh
+2017,Spring,Season,TL,1,0,TSM,30,Lourlo,Reignover,Piglet,Doublelift,Matt,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,TSM,1,0,TL,30,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,Lourlo,Reignover,Piglet,Doublelift,Matt
+2017,Spring,Season,TL,1,0,TSM,32,Lourlo,Reignover,Piglet,Doublelift,Matt,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,C9,1,0,P1,36,Ray,Contractz,Jensen,Sneaky,Smoothie,zig,Meteos,Ryu,Arrow,Stunt
+2017,Spring,Season,P1,0,1,C9,35,zig,Meteos,Ryu,Arrow,Shady,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Season,FOX,1,0,NV,36,Looper,Akaadian,Froggen,Keith,Gate,Seraph,LirA,Ninja,Apollo,Hakuho
+2017,Spring,Season,NV,1,0,FOX,37,Seraph,LirA,Ninja,Apollo,Hakuho,Looper,Akaadian,Froggen,Keith,Gate
+2017,Spring,Season,FOX,1,0,NV,43,Looper,Akaadian,Froggen,Keith,Gate,Seraph,LirA,Ninja,Apollo,Hakuho
+2017,Spring,Season,TSM,1,0,P1,32,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,zig,Inori,Ryu,Arrow,Shady
+2017,Spring,Season,P1,0,1,TSM,36,zig,Inori,Ryu,Arrow,Shady,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Season,DIG,1,0,IMT,65,Ssumday,Chaser,Keane,LOD,Xpecial,Flame,Dardoch,Pobelter,Cody Sun,Olleh
+2017,Spring,Season,IMT,0,1,DIG,45,Flame,Dardoch,Pobelter,Cody Sun,Olleh,Ssumday,Chaser,Keane,LOD,Xpecial
+2017,Spring,Season,FLY,0,1,TL,41,Balls,Moon,Hai,Altec,LemonNation,Lourlo,Reignover,Piglet,Doublelift,Matt
+2017,Spring,Season,TL,0,1,FLY,35,Lourlo,Reignover,Piglet,Doublelift,Matt,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Season,FLY,1,0,TL,36,Balls,Moon,Hai,Altec,LemonNation,Lourlo,Reignover,Piglet,Doublelift,Matt
+2017,Spring,Season,CLG,0,1,NV,37,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Seraph,LirA,Ninja,Apollo,Hakuho
+2017,Spring,Season,NV,0,1,CLG,37,Seraph,LirA,Ninja,Apollo,Hakuho,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2017,Spring,Season,CLG,1,0,NV,67,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Seraph,LirA,Ninja,Apollo,Hakuho
+2017,Spring,Playoffs,DIG,0,1,P1,48,Ssumday,Chaser,Keane,LOD,Xpecial,zig,Inori,Ryu,Arrow,Stunt
+2017,Spring,Playoffs,P1,1,0,DIG,35,zig,Inori,Ryu,Arrow,Stunt,Ssumday,Chaser,Keane,LOD,Xpecial
+2017,Spring,Playoffs,DIG,0,1,P1,39,Ssumday,Chaser,Keane,LOD,Xpecial,zig,Inori,Ryu,Arrow,Stunt
+2017,Spring,Playoffs,FLY,0,1,CLG,26,Balls,Moon,Hai,Altec,LemonNation,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2017,Spring,Playoffs,CLG,1,0,FLY,40,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Playoffs,FLY,1,0,CLG,45,Balls,Moon,Hai,Altec,LemonNation,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2017,Spring,Playoffs,FLY,1,0,CLG,36,Balls,Moon,Hai,Altec,LemonNation,Darshan,Xmithie,Huhi,Stixxay,aphromoo
+2017,Spring,Playoffs,CLG,0,1,FLY,38,Darshan,Xmithie,Huhi,Stixxay,aphromoo,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Playoffs,P1,0,1,C9,35,zig,Inori,Ryu,Arrow,Shady,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Playoffs,C9,1,0,P1,34,Ray,Contractz,Jensen,Sneaky,Smoothie,zig,Inori,Ryu,Arrow,Shady
+2017,Spring,Playoffs,P1,0,1,C9,26,zig,Meteos,Ryu,Arrow,Stunt,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Playoffs,FLY,0,1,TSM,34,Balls,Moon,Hai,Altec,LemonNation,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Playoffs,FLY,0,1,TSM,34,Balls,Moon,Hai,Altec,LemonNation,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Playoffs,FLY,0,1,TSM,32,Balls,Moon,Hai,Altec,LemonNation,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Playoffs,FLY,0,1,P1,32,Balls,Moon,Hai,Altec,LemonNation,zig,Inori,Ryu,Arrow,Shady
+2017,Spring,Playoffs,FLY,1,0,P1,34,Balls,Moon,Hai,Altec,LemonNation,zig,Inori,Ryu,Arrow,Shady
+2017,Spring,Playoffs,FLY,1,0,P1,36,Balls,Moon,Hai,Altec,LemonNation,zig,Inori,Ryu,Arrow,Shady
+2017,Spring,Playoffs,FLY,0,1,P1,33,Balls,Moon,Hai,Altec,LemonNation,zig,Inori,Ryu,Arrow,Shady
+2017,Spring,Playoffs,P1,1,0,FLY,45,zig,Inori,Ryu,Arrow,Shady,Balls,Moon,Hai,Altec,LemonNation
+2017,Spring,Playoffs,C9,0,1,TSM,29,Ray,Contractz,Jensen,Sneaky,Smoothie,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Playoffs,TSM,1,0,C9,23,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Playoffs,C9,1,0,TSM,48,Ray,Contractz,Jensen,Sneaky,Smoothie,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Spring,Playoffs,TSM,0,1,C9,32,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Spring,Playoffs,C9,0,1,TSM,43,Ray,Contractz,Jensen,Sneaky,Smoothie,Hauntzer,Svenskeren,Bjergsen,WildTurtle,Biofrost
+2017,Summer,Season,C9,1,0,CLG,38,Ray,Contractz,Jensen,Sneaky,Smoothie,Darshan,Dardoch,Huhi,Stixxay,aphromoo
+2017,Summer,Season,CLG,1,0,C9,42,Darshan,Dardoch,Huhi,Stixxay,aphromoo,Ray,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Season,C9,0,1,CLG,54,Ray,Contractz,Jensen,Sneaky,Smoothie,Darshan,Dardoch,Huhi,Stixxay,aphromoo
+2017,Summer,Season,IMT,0,1,P1,45,Flame,Xmithie,Pobelter,Cody Sun,Olleh,zig,Inori,Ryu,Arrow,Shady
+2017,Summer,Season,P1,0,1,IMT,42,zig,Inori,Ryu,Arrow,Shady,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Season,IMT,1,0,P1,31,Flame,Xmithie,Pobelter,Cody Sun,Olleh,zig,Inori,Ryu,Arrow,Shady
+2017,Summer,Season,CLG,1,0,TL,27,Darshan,Dardoch,Huhi,Stixxay,aphromoo,Lourlo,Reignover,Goldenglue,Piglet,Matt
+2017,Summer,Season,TL,0,1,CLG,42,Lourlo,Reignover,Goldenglue,Piglet,Matt,Darshan,Dardoch,Huhi,Stixxay,aphromoo
+2017,Summer,Season,FOX,1,0,FLY,33,Looper,Akaadian,Froggen,Keith,Gate,Balls,Moon,Hai,WildTurtle,LemonNation
+2017,Summer,Season,FLY,0,1,FOX,44,Balls,Moon,Hai,WildTurtle,LemonNation,Looper,Akaadian,Froggen,Keith,Gate
+2017,Summer,Season,TSM,1,0,C9,43,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Ray,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Season,C9,0,1,TSM,38,Ray,Contractz,Jensen,Sneaky,Smoothie,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Season,DIG,1,0,NV,35,Ssumday,Chaser,Keane,LOD,Big,Seraph,LirA,Pirean,Apollo,Hakuho
+2017,Summer,Season,NV,1,0,DIG,41,Seraph,LirA,Pirean,Apollo,Hakuho,Ssumday,Chaser,Keane,LOD,Big
+2017,Summer,Season,DIG,1,0,NV,53,Ssumday,Chaser,Keane,LOD,Big,Seraph,LirA,Pirean,Apollo,Hakuho
+2017,Summer,Season,IMT,1,0,TSM,38,Flame,Xmithie,Pobelter,Cody Sun,Olleh,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Season,TSM,0,1,IMT,33,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Season,NV,1,0,P1,43,Seraph,LirA,Pirean,Apollo,Hakuho,zig,Inori,Ryu,Arrow,Shady
+2017,Summer,Season,P1,1,0,NV,40,zig,Inori,Ryu,Arrow,Shady,Seraph,LirA,Pirean,Apollo,Hakuho
+2017,Summer,Season,NV,1,0,P1,37,Seraph,LirA,Pirean,Apollo,Hakuho,zig,Inori,Ryu,Arrow,Shady
+2017,Summer,Season,FLY,0,1,DIG,36,Balls,Moon,Hai,WildTurtle,LemonNation,Ssumday,Chaser,Keane,LOD,Big
+2017,Summer,Season,DIG,1,0,FLY,35,Ssumday,Chaser,Keane,LOD,Big,Balls,Moon,Hai,WildTurtle,LemonNation
+2017,Summer,Season,TL,0,1,FOX,43,Lourlo,Reignover,Slooshi,Piglet,Matt,Looper,Akaadian,Froggen,Keith,Gate
+2017,Summer,Season,FOX,1,0,TL,28,Looper,Akaadian,Froggen,Keith,Gate,Lourlo,Reignover,Slooshi,Piglet,Matt
+2017,Summer,Season,P1,0,1,C9,30,zig,Inori,Ryu,Arrow,Shady,Ray,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Season,C9,1,0,P1,36,Ray,Contractz,Jensen,Sneaky,Smoothie,zig,Meteos,Ryu,Arrow,Shady
+2017,Summer,Season,IMT,0,1,NV,34,Flame,Xmithie,Pobelter,Cody Sun,Olleh,Seraph,LirA,Pirean,Apollo,Hakuho
+2017,Summer,Season,NV,1,0,IMT,34,Seraph,LirA,Pirean,Apollo,Hakuho,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Season,DIG,1,0,TSM,37,Ssumday,Shrimp,Keane,LOD,Big,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Season,TSM,1,0,DIG,46,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Ssumday,Shrimp,Keane,LOD,Big
+2017,Summer,Season,DIG,1,0,TSM,37,Ssumday,Shrimp,Keane,LOD,Big,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Season,FOX,0,1,CLG,38,Looper,Grig,Froggen,Keith,Gate,Darshan,Dardoch,Huhi,Stixxay,aphromoo
+2017,Summer,Season,CLG,0,1,FOX,41,Darshan,Dardoch,Huhi,Stixxay,aphromoo,Looper,Grig,Froggen,Keith,Gate
+2017,Summer,Season,FOX,0,1,CLG,34,Looper,Grig,Froggen,Keith,Gate,Darshan,Dardoch,Huhi,Stixxay,aphromoo
+2017,Summer,Season,IMT,1,0,FLY,47,Flame,Xmithie,Pobelter,Cody Sun,Olleh,Balls,Moon,Hai,WildTurtle,LemonNation
+2017,Summer,Season,FLY,1,0,IMT,33,Balls,Moon,Hai,WildTurtle,LemonNation,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Season,IMT,1,0,FLY,34,Flame,Xmithie,Pobelter,Cody Sun,Olleh,Balls,Moon,Hai,WildTurtle,LemonNation
+2017,Summer,Season,NV,1,0,TL,37,Seraph,LirA,Pirean,Apollo,Hakuho,Lourlo,Reignover,Goldenglue,Piglet,Matt
+2017,Summer,Season,TL,1,0,NV,41,Lourlo,Reignover,Goldenglue,Piglet,Matt,Seraph,LirA,Pirean,Apollo,Hakuho
+2017,Summer,Season,NV,1,0,TL,43,Seraph,LirA,Pirean,Apollo,Hakuho,Lourlo,Reignover,Goldenglue,Piglet,Matt
+2017,Summer,Season,FOX,0,1,C9,62,Looper,Grig,Froggen,Keith,Gate,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Season,C9,1,0,FOX,24,Impact,Contractz,Jensen,Sneaky,Smoothie,Looper,Grig,Froggen,Keith,Gate
+2017,Summer,Season,DIG,1,0,TL,34,Ssumday,Shrimp,Keane,LOD,Big,Lourlo,Reignover,Goldenglue,Piglet,Matt
+2017,Summer,Season,TL,1,0,DIG,47,Lourlo,Reignover,Goldenglue,Piglet,Matt,Ssumday,Shrimp,Keane,LOD,Big
+2017,Summer,Season,DIG,0,1,TL,41,Ssumday,Chaser,Keane,LOD,Big,Lourlo,Reignover,Goldenglue,Piglet,Matt
+2017,Summer,Season,CLG,1,0,TSM,39,Darshan,Dardoch,Huhi,Stixxay,aphromoo,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Season,TSM,1,0,CLG,30,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Darshan,Dardoch,Huhi,Stixxay,aphromoo
+2017,Summer,Season,CLG,0,1,TSM,41,Darshan,Dardoch,Huhi,Stixxay,aphromoo,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Season,P1,0,1,FLY,34,zig,Meteos,Ryu,Arrow,Shady,Balls,Moon,Hai,WildTurtle,LemonNation
+2017,Summer,Season,FLY,1,0,P1,26,Balls,Moon,Hai,WildTurtle,LemonNation,zig,Meteos,Ryu,Arrow,Shady
+2017,Summer,Season,IMT,1,0,TL,27,Flame,Xmithie,Pobelter,Cody Sun,Olleh,Lourlo,Reignover,Goldenglue,Piglet,Matt
+2017,Summer,Season,TL,0,1,IMT,33,Lourlo,Reignover,Goldenglue,Piglet,Matt,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Season,NV,0,1,FOX,47,Seraph,LirA,Pirean,Apollo,Hakuho,Looper,Akaadian,Froggen,Keith,Gate
+2017,Summer,Season,FOX,1,0,NV,43,Looper,Akaadian,Froggen,Keith,Gate,Seraph,LirA,Pirean,Apollo,Hakuho
+2017,Summer,Season,TL,0,1,TSM,42,Lourlo,Reignover,Goldenglue,Piglet,Matt,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Season,TSM,1,0,TL,32,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Lourlo,Reignover,Goldenglue,Piglet,Matt
+2017,Summer,Season,IMT,0,1,C9,32,Flame,Xmithie,Pobelter,Cody Sun,Olleh,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Season,C9,0,1,IMT,39,Impact,Contractz,Jensen,Sneaky,Smoothie,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Season,IMT,1,0,C9,50,Flame,Xmithie,Pobelter,Cody Sun,Olleh,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Season,FLY,0,1,CLG,36,Balls,Moon,Hai,WildTurtle,LemonNation,Darshan,Dardoch,Huhi,Stixxay,aphromoo
+2017,Summer,Season,CLG,0,1,FLY,47,Darshan,Dardoch,Huhi,Stixxay,aphromoo,Balls,Moon,Hai,WildTurtle,LemonNation
+2017,Summer,Season,FLY,0,1,CLG,42,Balls,Moon,Hai,WildTurtle,LemonNation,Darshan,Dardoch,Huhi,Stixxay,aphromoo
+2017,Summer,Season,P1,0,1,DIG,38,zig,MikeYeung,Ryu,Arrow,Shady,Ssumday,Shrimp,Keane,LOD,Big
+2017,Summer,Season,DIG,0,1,P1,26,Ssumday,Shrimp,Keane,LOD,Big,zig,MikeYeung,Ryu,Arrow,Shady
+2017,Summer,Season,P1,0,1,DIG,44,zig,MikeYeung,Ryu,Arrow,Shady,Ssumday,Shrimp,Keane,LOD,Big
+2017,Summer,Season,NV,0,1,TSM,28,Seraph,LirA,Pirean,Apollo,Hakuho,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Season,TSM,1,0,NV,41,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Seraph,LirA,Pirean,Apollo,Hakuho
+2017,Summer,Season,P1,0,1,CLG,36,zig,MikeYeung,Ryu,Arrow,Xpecial,Darshan,Dardoch,Huhi,Stixxay,aphromoo
+2017,Summer,Season,CLG,0,1,P1,39,Darshan,Dardoch,Huhi,Stixxay,aphromoo,zig,MikeYeung,Ryu,Arrow,Xpecial
+2017,Summer,Season,P1,0,1,CLG,44,zig,MikeYeung,Ryu,Arrow,Xpecial,Darshan,Dardoch,Huhi,Stixxay,aphromoo
+2017,Summer,Season,FLY,0,1,C9,30,Balls,Moon,Hai,WildTurtle,LemonNation,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Season,C9,1,0,FLY,34,Impact,Contractz,Jensen,Sneaky,Smoothie,Balls,Moon,Hai,WildTurtle,LemonNation
+2017,Summer,Season,DIG,1,0,FOX,51,Ssumday,Shrimp,Keane,LOD,Big,Looper,Akaadian,Froggen,Keith,Gate
+2017,Summer,Season,FOX,1,0,DIG,40,Looper,Akaadian,Froggen,Keith,Gate,Ssumday,Shrimp,Keane,LOD,Big
+2017,Summer,Season,DIG,1,0,FOX,29,Ssumday,Shrimp,Keane,LOD,Big,Looper,Akaadian,Froggen,Keith,Gate
+2017,Summer,Season,IMT,1,0,CLG,34,Flame,Xmithie,Pobelter,Cody Sun,Olleh,Darshan,Dardoch,Huhi,Stixxay,aphromoo
+2017,Summer,Season,CLG,0,1,IMT,29,Darshan,Dardoch,Huhi,Stixxay,aphromoo,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Season,FOX,0,1,P1,47,Looper,Akaadian,Froggen,Keith,Gate,zig,MikeYeung,Ryu,Arrow,Xpecial
+2017,Summer,Season,P1,1,0,FOX,37,zig,MikeYeung,Ryu,Arrow,Xpecial,Looper,Akaadian,Froggen,Keith,Gate
+2017,Summer,Season,TSM,1,0,FLY,30,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Balls,Moon,Hai,WildTurtle,LemonNation
+2017,Summer,Season,FLY,0,1,TSM,30,Balls,Moon,Hai,WildTurtle,LemonNation,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Season,CLG,1,0,NV,35,Darshan,Dardoch,Huhi,Stixxay,aphromoo,Seraph,LirA,Nisqy,Apollo,Hakuho
+2017,Summer,Season,NV,1,0,CLG,32,Seraph,LirA,Nisqy,Apollo,Hakuho,Darshan,Dardoch,Huhi,Stixxay,aphromoo
+2017,Summer,Season,CLG,1,0,NV,35,Darshan,Dardoch,Huhi,Stixxay,aphromoo,Seraph,LirA,Nisqy,Apollo,Hakuho
+2017,Summer,Season,C9,1,0,TL,34,Impact,Contractz,Jensen,Sneaky,Smoothie,Lourlo,Reignover,Slooshi,Piglet,konkwon
+2017,Summer,Season,TL,0,1,C9,38,Lourlo,Inori,Slooshi,Piglet,konkwon,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Season,IMT,0,1,DIG,34,Flame,Xmithie,Pobelter,Cody Sun,Olleh,Ssumday,Shrimp,Keane,LOD,Big
+2017,Summer,Season,DIG,0,1,IMT,28,Ssumday,Shrimp,Keane,LOD,Big,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Season,IMT,1,0,DIG,24,Flame,Xmithie,Pobelter,Cody Sun,Olleh,Ssumday,Shrimp,Keane,LOD,Big
+2017,Summer,Season,TSM,1,0,FOX,32,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Looper,Akaadian,Froggen,Keith,Gate
+2017,Summer,Season,FOX,0,1,TSM,36,Looper,Akaadian,Froggen,Keith,Gate,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Season,TL,1,0,P1,34,Lourlo,Reignover,Slooshi,Piglet,konkwon,zig,MikeYeung,Ryu,Arrow,Xpecial
+2017,Summer,Season,P1,1,0,TL,51,zig,MikeYeung,Ryu,Arrow,Xpecial,Lourlo,Reignover,Slooshi,Piglet,konkwon
+2017,Summer,Season,TL,1,0,P1,29,Lourlo,Reignover,Slooshi,Piglet,konkwon,zig,MikeYeung,Ryu,Arrow,Xpecial
+2017,Summer,Season,C9,0,1,DIG,38,Impact,Contractz,Jensen,Sneaky,Smoothie,Ssumday,Shrimp,Keane,Altec,Big
+2017,Summer,Season,DIG,0,1,C9,31,Ssumday,Shrimp,Keane,Altec,Big,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Season,C9,1,0,DIG,29,Impact,Contractz,Jensen,Sneaky,Smoothie,Ssumday,Shrimp,Keane,Altec,Big
+2017,Summer,Season,FLY,1,0,NV,51,Balls,Moon,Hai,WildTurtle,LemonNation,Seraph,LirA,Nisqy,Apollo,Hakuho
+2017,Summer,Season,NV,1,0,FLY,32,Seraph,LirA,Nisqy,Apollo,Hakuho,Balls,Moon,Hai,WildTurtle,LemonNation
+2017,Summer,Season,FLY,0,1,NV,28,Balls,Moon,Hai,WildTurtle,LemonNation,Seraph,LirA,Nisqy,Apollo,Hakuho
+2017,Summer,Season,C9,0,1,TSM,33,Impact,Contractz,Jensen,Sneaky,Smoothie,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Season,TSM,0,1,C9,34,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Ray,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Season,C9,1,0,TSM,30,Ray,Contractz,Jensen,Sneaky,Smoothie,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Season,P1,1,0,NV,37,zig,MikeYeung,Ryu,Arrow,Xpecial,Seraph,LirA,Pirean,Apollo,Hakuho
+2017,Summer,Season,NV,1,0,P1,50,Seraph,LirA,Pirean,Apollo,Hakuho,zig,MikeYeung,Ryu,Arrow,Xpecial
+2017,Summer,Season,P1,1,0,NV,58,zig,MikeYeung,Ryu,Arrow,Xpecial,Seraph,LirA,Pirean,Apollo,Hakuho
+2017,Summer,Season,TSM,1,0,IMT,42,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Season,IMT,0,1,TSM,35,Flame,Xmithie,Pobelter,Cody Sun,Olleh,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Season,CLG,1,0,C9,36,Darshan,Dardoch,Huhi,Stixxay,aphromoo,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Season,C9,1,0,CLG,31,Ray,Contractz,Jensen,Sneaky,Smoothie,Darshan,Dardoch,Huhi,Stixxay,aphromoo
+2017,Summer,Season,CLG,1,0,C9,32,Darshan,Dardoch,Huhi,Stixxay,aphromoo,Ray,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Season,DIG,0,1,FLY,39,Ssumday,Shrimp,Keane,LOD,Big,Balls,Moon,Hai,WildTurtle,LemonNation
+2017,Summer,Season,FLY,0,1,DIG,35,Balls,Moon,Hai,WildTurtle,LemonNation,Ssumday,Shrimp,Keane,Altec,Big
+2017,Summer,Season,DIG,0,1,FLY,40,Ssumday,Shrimp,Keane,Altec,Big,Balls,Moon,Hai,WildTurtle,LemonNation
+2017,Summer,Season,FOX,1,0,TL,34,Looper,Akaadian,Froggen,Keith,Gate,Lourlo,Reignover,Slooshi,Piglet,konkwon
+2017,Summer,Season,TL,1,0,FOX,29,Lourlo,Reignover,Goldenglue,Piglet,Matt,Looper,Akaadian,Froggen,Keith,Gate
+2017,Summer,Season,FOX,1,0,TL,38,Looper,Akaadian,Froggen,Keith,Gate,Lourlo,Reignover,Goldenglue,Piglet,Matt
+2017,Summer,Season,P1,0,1,IMT,34,zig,MikeYeung,Ryu,Arrow,Xpecial,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Season,IMT,0,1,P1,32,Flame,Xmithie,Pobelter,Cody Sun,Olleh,zig,MikeYeung,Ryu,Arrow,Xpecial
+2017,Summer,Season,P1,1,0,IMT,32,zig,MikeYeung,Ryu,Arrow,Xpecial,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Season,FLY,0,1,FOX,49,Balls,Moon,Hai,WildTurtle,LemonNation,Looper,Akaadian,Froggen,Keith,Gate
+2017,Summer,Season,FOX,0,1,FLY,38,Looper,Akaadian,Froggen,Keith,Gate,Balls,Moon,Hai,WildTurtle,LemonNation
+2017,Summer,Season,FLY,1,0,FOX,32,Balls,Moon,Hai,WildTurtle,LemonNation,Looper,Akaadian,Froggen,Keith,Gate
+2017,Summer,Season,NV,1,0,DIG,41,Seraph,LirA,Pirean,Apollo,Hakuho,Ssumday,Shrimp,Keane,Altec,Big
+2017,Summer,Season,DIG,1,0,NV,27,Ssumday,Shrimp,Keane,Altec,Big,Seraph,LirA,Pirean,Apollo,Hakuho
+2017,Summer,Season,NV,1,0,DIG,32,Seraph,LirA,Pirean,Apollo,Hakuho,Ssumday,Shrimp,Keane,Altec,Big
+2017,Summer,Season,TL,0,1,CLG,35,Lourlo,Reignover,Goldenglue,Piglet,Matt,Darshan,Dardoch,Huhi,Stixxay,aphromoo
+2017,Summer,Season,CLG,1,0,TL,30,Darshan,Dardoch,Huhi,Stixxay,aphromoo,Lourlo,Reignover,Goldenglue,Piglet,Matt
+2017,Summer,Season,CLG,1,0,FLY,44,Darshan,Dardoch,Huhi,Stixxay,aphromoo,Balls,Moon,Hai,WildTurtle,LemonNation
+2017,Summer,Season,FLY,0,1,CLG,37,Balls,Moon,Hai,WildTurtle,LemonNation,Darshan,OmarGod,Huhi,Stixxay,aphromoo
+2017,Summer,Season,IMT,1,0,FOX,35,Flame,Xmithie,Pobelter,Cody Sun,Olleh,Looper,Akaadian,Damonte,Mash,Gate
+2017,Summer,Season,FOX,0,1,IMT,39,Looper,Grig,Damonte,Keith,Gate,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Season,TSM,1,0,P1,30,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,zig,MikeYeung,Ryu,Arrow,Xpecial
+2017,Summer,Season,P1,0,1,TSM,34,zig,MikeYeung,Ryu,Arrow,Xpecial,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Season,CLG,0,1,DIG,39,Darshan,Dardoch,Huhi,Stixxay,aphromoo,Ssumday,Shrimp,Keane,Altec,Adrian
+2017,Summer,Season,DIG,1,0,CLG,30,Ssumday,Shrimp,Keane,Altec,Adrian,Darshan,OmarGod,Huhi,Stixxay,aphromoo
+2017,Summer,Season,C9,0,1,NV,35,Impact,Contractz,Jensen,Sneaky,Smoothie,Seraph,LirA,Nisqy,Apollo,Hakuho
+2017,Summer,Season,NV,1,0,C9,39,Seraph,LirA,Nisqy,Apollo,Hakuho,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Season,TL,0,1,FLY,55,Lourlo,Inori,Goldenglue,Piglet,Matt,Balls,Moon,Hai,WildTurtle,LemonNation
+2017,Summer,Season,FLY,1,0,TL,35,Balls,Moon,Hai,WildTurtle,LemonNation,Lourlo,Inori,Goldenglue,Piglet,Matt
+2017,Summer,Season,C9,1,0,IMT,37,Ray,Contractz,Jensen,Sneaky,Smoothie,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Season,IMT,1,0,C9,38,Flame,Xmithie,Pobelter,Cody Sun,Olleh,Ray,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Season,C9,0,1,IMT,39,Ray,Contractz,Jensen,Sneaky,Smoothie,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Season,DIG,1,0,P1,24,Ssumday,Shrimp,Keane,Altec,Adrian,zig,MikeYeung,Ryu,Arrow,Xpecial
+2017,Summer,Season,P1,1,0,DIG,25,zig,MikeYeung,Ryu,Arrow,Xpecial,Ssumday,Shrimp,Keane,Altec,Adrian
+2017,Summer,Season,DIG,1,0,P1,31,Ssumday,Shrimp,Keane,Altec,Adrian,zig,MikeYeung,Ryu,Arrow,Xpecial
+2017,Summer,Season,TSM,1,0,TL,34,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Lourlo,Inori,Goldenglue,Piglet,Matt
+2017,Summer,Season,TL,0,1,TSM,39,Lourlo,Reignover,Goldenglue,Piglet,Matt,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Season,FOX,1,0,NV,32,Looper,Grig,Damonte,Keith,Gate,Seraph,LirA,Nisqy,Apollo,Hakuho
+2017,Summer,Season,NV,1,0,FOX,35,Seraph,LirA,Nisqy,Apollo,Hakuho,Brandini,Akaadian,Damonte,Mash,Gate
+2017,Summer,Season,FOX,0,1,NV,41,Looper,Grig,Damonte,Keith,Gate,Seraph,LirA,Nisqy,Apollo,Hakuho
+2017,Summer,Season,C9,1,0,P1,27,Impact,Contractz,Jensen,Sneaky,Smoothie,zig,MikeYeung,Pirean,Arrow,Xpecial
+2017,Summer,Season,P1,1,0,C9,34,zig,MikeYeung,Pirean,Arrow,Xpecial,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Season,C9,1,0,P1,31,Impact,Contractz,Jensen,Sneaky,Smoothie,zig,MikeYeung,Pirean,Arrow,Xpecial
+2017,Summer,Season,TL,1,0,NV,34,Lourlo,Reignover,Goldenglue,Piglet,Matt,Seraph,LirA,Nisqy,Apollo,Hakuho
+2017,Summer,Season,NV,1,0,TL,35,Seraph,LirA,Nisqy,Apollo,Hakuho,Lourlo,Reignover,Goldenglue,Piglet,Matt
+2017,Summer,Season,TL,1,0,NV,40,Lourlo,Reignover,Goldenglue,Piglet,Matt,Seraph,LirA,Nisqy,Apollo,Hakuho
+2017,Summer,Season,TSM,0,1,DIG,34,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Ssumday,Shrimp,Keane,Altec,Adrian
+2017,Summer,Season,DIG,1,0,TSM,36,Ssumday,Shrimp,Keane,Altec,Adrian,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Season,CLG,1,0,FOX,29,Darshan,Dardoch,Huhi,Stixxay,aphromoo,Brandini,Grig,Froggen,Mash,Gate
+2017,Summer,Season,FOX,0,1,CLG,30,Looper,Akaadian,Froggen,Keith,Gate,Darshan,Dardoch,Huhi,Stixxay,aphromoo
+2017,Summer,Season,FLY,1,0,IMT,42,Balls,Moon,Hai,WildTurtle,LemonNation,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Season,IMT,1,0,FLY,28,Flame,Xmithie,Pobelter,Cody Sun,Olleh,Balls,Moon,Hai,WildTurtle,LemonNation
+2017,Summer,Season,FLY,0,1,IMT,30,Balls,Moon,Hai,WildTurtle,LemonNation,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Season,P1,0,1,TL,34,zig,MikeYeung,Pirean,Arrow,Xpecial,Lourlo,Reignover,Goldenglue,Piglet,Matt
+2017,Summer,Season,TL,1,0,P1,29,Lourlo,Reignover,Goldenglue,Piglet,Matt,zig,MikeYeung,Pirean,Arrow,Xpecial
+2017,Summer,Season,DIG,1,0,C9,24,Ssumday,Shrimp,Keane,Altec,Adrian,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Season,C9,1,0,DIG,41,Impact,Contractz,Jensen,Sneaky,Smoothie,Ssumday,Shrimp,Keane,Altec,Adrian
+2017,Summer,Season,DIG,0,1,C9,33,Ssumday,Shrimp,Keane,Altec,Adrian,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Season,FOX,0,1,TSM,29,Brandini,Akaadian,Froggen,Mash,Gate,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Season,TSM,0,1,FOX,30,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Brandini,Akaadian,Froggen,Mash,Gate
+2017,Summer,Season,FOX,0,1,TSM,32,Brandini,Akaadian,Froggen,Mash,Gate,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Season,CLG,0,1,IMT,36,Darshan,Dardoch,Huhi,Stixxay,aphromoo,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Season,IMT,0,1,CLG,35,Flame,Xmithie,Pobelter,Cody Sun,Olleh,Darshan,OmarGod,Huhi,Stixxay,aphromoo
+2017,Summer,Season,CLG,0,1,IMT,34,Darshan,OmarGod,Huhi,Stixxay,aphromoo,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Season,NV,0,1,FLY,37,Seraph,LirA,Nisqy,Apollo,Hakuho,Balls,Moon,Hai,WildTurtle,LemonNation
+2017,Summer,Season,FLY,0,1,NV,42,Balls,Moon,Hai,WildTurtle,LemonNation,Seraph,LirA,Nisqy,Apollo,Hakuho
+2017,Summer,Season,NV,1,0,FLY,43,Seraph,LirA,Nisqy,Apollo,Hakuho,Balls,Moon,Hai,WildTurtle,LemonNation
+2017,Summer,Season,P1,0,1,FOX,43,zig,MikeYeung,Ryu,Arrow,Xpecial,Brandini,Akaadian,Froggen,Mash,Gate
+2017,Summer,Season,FOX,1,0,P1,39,Brandini,Akaadian,Froggen,Mash,Gate,zig,MikeYeung,Ryu,Arrow,Xpecial
+2017,Summer,Season,TL,0,1,IMT,41,Lourlo,Dardoch,Goldenglue,Piglet,Matt,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Season,IMT,1,0,TL,30,Flame,Xmithie,Pobelter,Cody Sun,Olleh,Lourlo,Dardoch,Goldenglue,Piglet,Matt
+2017,Summer,Season,FLY,0,1,TSM,33,Balls,Moon,Hai,WildTurtle,LemonNation,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Season,TSM,1,0,FLY,31,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Balls,Moon,Hai,WildTurtle,LemonNation
+2017,Summer,Season,NV,0,1,CLG,27,Seraph,LirA,Nisqy,Apollo,Hakuho,Darshan,OmarGod,Huhi,Stixxay,aphromoo
+2017,Summer,Season,CLG,1,0,NV,31,Darshan,OmarGod,Huhi,Stixxay,aphromoo,Seraph,LirA,Nisqy,Apollo,Hakuho
+2017,Summer,Season,DIG,1,0,IMT,39,Ssumday,Shrimp,Keane,Altec,Adrian,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Season,IMT,1,0,DIG,38,Flame,Xmithie,Pobelter,Cody Sun,Olleh,Ssumday,Shrimp,Keane,Altec,Adrian
+2017,Summer,Season,DIG,1,0,IMT,27,Ssumday,Shrimp,Keane,Altec,Adrian,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Season,TL,1,0,C9,35,Lourlo,Reignover,Goldenglue,Piglet,Matt,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Season,C9,1,0,TL,28,Impact,Contractz,Jensen,Sneaky,Smoothie,Lourlo,Dardoch,Goldenglue,Piglet,Matt
+2017,Summer,Season,TL,0,1,C9,32,Lourlo,Reignover,Goldenglue,Piglet,Matt,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Season,C9,1,0,FLY,31,Impact,Contractz,Jensen,Sneaky,Smoothie,Balls,Moon,Hai,WildTurtle,LemonNation
+2017,Summer,Season,FLY,0,1,C9,24,Balls,Moon,Hai,WildTurtle,LemonNation,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Season,CLG,1,0,P1,29,Darshan,OmarGod,Huhi,Stixxay,aphromoo,Allorim,MikeYeung,Pirean,Arrow,Xpecial
+2017,Summer,Season,P1,1,0,CLG,27,zig,MikeYeung,Ryu,Arrow,Xpecial,Darshan,OmarGod,Huhi,Stixxay,aphromoo
+2017,Summer,Season,CLG,0,1,P1,28,Darshan,OmarGod,Huhi,Stixxay,aphromoo,zig,MikeYeung,Ryu,Arrow,Xpecial
+2017,Summer,Season,TSM,1,0,NV,46,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Seraph,LirA,Nisqy,Apollo,Hakuho
+2017,Summer,Season,NV,1,0,TSM,55,Seraph,LirA,Nisqy,Apollo,Hakuho,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Season,TSM,1,0,NV,44,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Seraph,LirA,Nisqy,Apollo,Hakuho
+2017,Summer,Season,FOX,0,1,DIG,29,Brandini,Akaadian,Froggen,Mash,Gate,Ssumday,Shrimp,Keane,Altec,Adrian
+2017,Summer,Season,DIG,0,1,FOX,38,Ssumday,Shrimp,Keane,Altec,Adrian,Brandini,Akaadian,Froggen,Keith,Gate
+2017,Summer,Season,FOX,0,1,DIG,28,Brandini,Akaadian,Froggen,Keith,Gate,Ssumday,Shrimp,Keane,Altec,Adrian
+2017,Summer,Season,NV,0,1,IMT,24,Seraph,LirA,Nisqy,Apollo,Hakuho,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Season,IMT,1,0,NV,28,Flame,Xmithie,Pobelter,Cody Sun,Olleh,Seraph,LirA,Nisqy,Apollo,Hakuho
+2017,Summer,Season,DIG,0,1,CLG,30,Ssumday,Shrimp,Keane,Altec,Adrian,Darshan,OmarGod,Huhi,Stixxay,aphromoo
+2017,Summer,Season,CLG,0,1,DIG,31,Darshan,OmarGod,Huhi,Stixxay,aphromoo,Ssumday,Shrimp,Keane,Altec,Adrian
+2017,Summer,Season,DIG,0,1,CLG,29,Ssumday,Shrimp,Keane,Altec,Adrian,Darshan,OmarGod,Huhi,Stixxay,aphromoo
+2017,Summer,Season,P1,0,1,TSM,27,zig,MikeYeung,Pirean,Arrow,Xpecial,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Season,TSM,1,0,P1,35,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,zig,MikeYeung,Ryu,Arrow,Xpecial
+2017,Summer,Season,NV,0,1,C9,25,Seraph,LirA,Nisqy,Apollo,Hakuho,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Season,C9,1,0,NV,36,Impact,Contractz,Jensen,Sneaky,Smoothie,Seraph,LirA,Nisqy,Apollo,Hakuho
+2017,Summer,Season,FOX,0,1,IMT,35,Brandini,Akaadian,Froggen,Keith,Gate,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Season,IMT,1,0,FOX,24,Flame,Xmithie,Pobelter,Cody Sun,Olleh,Brandini,Akaadian,Froggen,Mash,Gate
+2017,Summer,Season,FLY,1,0,TL,37,Balls,Moon,Hai,WildTurtle,LemonNation,Lourlo,Dardoch,Mickey,Piglet,Matt
+2017,Summer,Season,TL,1,0,FLY,38,Lourlo,Dardoch,Mickey,Piglet,Matt,Balls,Moon,Hai,WildTurtle,LemonNation
+2017,Summer,Season,FLY,1,0,TL,44,Balls,Moon,Hai,WildTurtle,LemonNation,Lourlo,Dardoch,Mickey,Piglet,Matt
+2017,Summer,Season,C9,1,0,FOX,29,Impact,Contractz,Jensen,Sneaky,Smoothie,Brandini,Akaadian,Froggen,Mash,Gate
+2017,Summer,Season,FOX,0,1,C9,22,Brandini,Akaadian,Froggen,Keith,Gate,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Season,TL,0,1,DIG,32,Lourlo,Dardoch,Mickey,Piglet,Matt,Ssumday,Shrimp,Keane,Altec,Adrian
+2017,Summer,Season,DIG,0,1,TL,31,Ssumday,Shrimp,Keane,Altec,Adrian,Lourlo,Dardoch,Mickey,Piglet,Matt
+2017,Summer,Season,TL,0,1,DIG,26,Lourlo,Dardoch,Mickey,Piglet,Matt,Ssumday,Shrimp,Keane,Altec,Adrian
+2017,Summer,Season,TSM,1,0,CLG,31,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Darshan,OmarGod,Huhi,Stixxay,aphromoo
+2017,Summer,Season,CLG,0,1,TSM,53,Darshan,OmarGod,Huhi,Stixxay,aphromoo,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Season,FLY,1,0,P1,29,Balls,Moon,Hai,WildTurtle,LemonNation,zig,MikeYeung,Ryu,Arrow,Xpecial
+2017,Summer,Season,P1,0,1,FLY,41,zig,MikeYeung,Ryu,Arrow,Xpecial,Balls,Moon,Hai,WildTurtle,LemonNation
+2017,Summer,Playoffs,DIG,1,0,C9,40,Ssumday,Shrimp,Keane,Altec,Adrian,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Playoffs,C9,0,1,DIG,39,Impact,Contractz,Jensen,Sneaky,Smoothie,Ssumday,Shrimp,Keane,Altec,Adrian
+2017,Summer,Playoffs,DIG,0,1,C9,31,Ssumday,Shrimp,Keane,Altec,Adrian,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Playoffs,C9,0,1,DIG,51,Impact,Contractz,Jensen,Sneaky,Smoothie,Ssumday,Shrimp,Keane,Altec,Adrian
+2017,Summer,Playoffs,CLG,1,0,NV,35,Darshan,OmarGod,Huhi,Stixxay,aphromoo,Seraph,LirA,Nisqy,Apollo,Hakuho
+2017,Summer,Playoffs,CLG,0,1,NV,37,Darshan,OmarGod,Huhi,Stixxay,aphromoo,Seraph,LirA,Nisqy,Apollo,Hakuho
+2017,Summer,Playoffs,CLG,0,1,NV,41,Darshan,OmarGod,Huhi,Stixxay,aphromoo,Seraph,LirA,Nisqy,Apollo,Hakuho
+2017,Summer,Playoffs,CLG,1,0,NV,36,Darshan,OmarGod,Huhi,Stixxay,aphromoo,Seraph,LirA,Nisqy,Apollo,Hakuho
+2017,Summer,Playoffs,NV,0,1,CLG,39,Seraph,LirA,Nisqy,Apollo,Hakuho,Darshan,OmarGod,Huhi,Stixxay,aphromoo
+2017,Summer,Playoffs,CLG,0,1,IMT,47,Darshan,OmarGod,Huhi,Stixxay,aphromoo,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Playoffs,IMT,1,0,CLG,42,Flame,Xmithie,Pobelter,Cody Sun,Olleh,Darshan,OmarGod,Huhi,Stixxay,aphromoo
+2017,Summer,Playoffs,IMT,1,0,CLG,28,Flame,Xmithie,Pobelter,Cody Sun,Olleh,Darshan,OmarGod,Huhi,Stixxay,aphromoo
+2017,Summer,Playoffs,TSM,1,0,DIG,35,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Ssumday,Shrimp,Keane,Altec,Adrian
+2017,Summer,Playoffs,DIG,0,1,TSM,29,Ssumday,Shrimp,Keane,Altec,Adrian,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Playoffs,DIG,1,0,TSM,37,Ssumday,Shrimp,Keane,Altec,Adrian,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Playoffs,DIG,0,1,TSM,46,Ssumday,Shrimp,Keane,Altec,Adrian,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Playoffs,DIG,0,1,CLG,29,Ssumday,Shrimp,Keane,Altec,Adrian,Darshan,OmarGod,Huhi,Stixxay,aphromoo
+2017,Summer,Playoffs,CLG,1,0,DIG,36,Darshan,OmarGod,Huhi,Stixxay,aphromoo,Ssumday,Shrimp,Keane,Altec,Adrian
+2017,Summer,Playoffs,DIG,0,1,CLG,39,Ssumday,Shrimp,Keane,Altec,Adrian,Darshan,OmarGod,Huhi,Stixxay,aphromoo
+2017,Summer,Playoffs,TSM,1,0,IMT,38,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Playoffs,IMT,1,0,TSM,34,Flame,Xmithie,Pobelter,Cody Sun,Olleh,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Playoffs,TSM,1,0,IMT,46,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost,Flame,Xmithie,Pobelter,Cody Sun,Olleh
+2017,Summer,Playoffs,IMT,0,1,TSM,43,Flame,Xmithie,Pobelter,Cody Sun,Olleh,Hauntzer,Svenskeren,Bjergsen,Doublelift,Biofrost
+2017,Summer,Regional,FLY,1,0,DIG,38,Balls,Moon,Hai,WildTurtle,LemonNation,Ssumday,Shrimp,Keane,Altec,Adrian
+2017,Summer,Regional,FLY,1,0,DIG,30,Balls,Moon,Hai,WildTurtle,LemonNation,Ssumday,Shrimp,Keane,Altec,Adrian
+2017,Summer,Regional,DIG,0,1,FLY,27,Ssumday,Shrimp,Keane,Altec,Adrian,Balls,Moon,Hai,WildTurtle,LemonNation
+2017,Summer,Regional,FLY,1,0,CLG,30,Balls,Moon,Hai,WildTurtle,LemonNation,Darshan,OmarGod,Huhi,Stixxay,aphromoo
+2017,Summer,Regional,FLY,0,1,CLG,40,Balls,Moon,Hai,WildTurtle,LemonNation,Darshan,OmarGod,Huhi,Stixxay,aphromoo
+2017,Summer,Regional,CLG,1,0,FLY,31,Darshan,OmarGod,Huhi,Stixxay,aphromoo,Balls,Moon,Hai,WildTurtle,LemonNation
+2017,Summer,Regional,FLY,0,1,CLG,28,Balls,Moon,Hai,WildTurtle,LemonNation,Darshan,OmarGod,Huhi,Stixxay,aphromoo
+2017,Summer,Regional,C9,1,0,CLG,36,Impact,Contractz,Jensen,Sneaky,Smoothie,Darshan,OmarGod,Huhi,Stixxay,aphromoo
+2017,Summer,Regional,CLG,0,1,C9,42,Darshan,OmarGod,Huhi,Stixxay,aphromoo,Impact,Contractz,Jensen,Sneaky,Smoothie
+2017,Summer,Regional,C9,0,1,CLG,32,Impact,Contractz,Jensen,Sneaky,Smoothie,Darshan,OmarGod,Huhi,Stixxay,aphromoo
+2017,Summer,Regional,CLG,0,1,C9,52,Darshan,OmarGod,Huhi,Stixxay,aphromoo,Impact,Contractz,Jensen,Sneaky,Smoothie
